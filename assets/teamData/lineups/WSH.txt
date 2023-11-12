@@ -1,0 +1,21 @@
+NORM
+Adam Eaton	CF
+Trea Turner	SS
+Daniel Murphy	2B
+Bryce Harper	RF
+Anthony Rendon	3B
+Matt Wieters	C
+Jayson Werth	LF
+Ryan Zimmerman	1B
+Pitcher	SP
+
+WDH
+Adam Eaton	CF
+Trea Turner	SS
+Daniel Murphy	2B
+Bryce Harper	RF
+Anthony Rendon	3B
+Adam Lind	DH
+Matt Wieters	C
+Jayson Werth	LF
+Ryan Zimmerman	1B

@@ -1,0 +1,21 @@
+NORM
+Jacoby Ellsbury	CF
+Brett Gardner	LF
+Gary Sanchez	C
+Matt Holliday	RF
+Greg Bird	1B
+Didi Gregorius	SS
+Chase Headley	3B
+Starlin Castro	2B
+Pitcher	SP
+
+WDH
+Jacoby Ellsbury	CF
+Brett Gardner	LF
+Gary Sanchez	C
+Matt Holliday	DH
+Greg Bird	1B
+Aaron Judge	RF
+Didi Gregorius	SS
+Chase Headley	3B
+Starlin Castro	2B

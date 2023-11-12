@@ -1,0 +1,21 @@
+NORM
+Logan Forsythe	2B
+Corey Seager	SS
+Justin Turner	3B
+Adrian Gonzalez	1B
+Yasmani Grandal	C
+Joc Pederson	CF
+Yasiel Puig	RF
+Andrew Toles	LF
+Pitcher	SP
+
+WDH
+Logan Forsythe	2B
+Corey Seager	SS
+Justin Turner	3B
+Adrian Gonzalez	1B
+Yasmani Grandal	C
+Joc Pederson	CF
+Yasiel Puig	RF
+Andre Ethier	DH
+Andrew Toles	LF

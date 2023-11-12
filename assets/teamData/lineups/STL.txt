@@ -1,0 +1,21 @@
+NORM
+Dexter Fowler	CF
+Aledmys Diaz	SS
+Matt Carpenter	1B
+Stephen Piscotty	RF
+Yadier Molina	C
+Jhonny Peralta	3B
+Kolten Wong	2B
+Randal Grichuk	LF
+Pitcher	SP
+
+WDH
+Dexter Fowler	CF
+Aledmys Diaz	SS
+Matt Carpenter	1B
+Stephen Piscotty	RF
+Yadier Molina	C
+Matt Adams	DH
+Jhonny Peralta	3B
+Kolten Wong	2B
+Randal Grichuk	LF

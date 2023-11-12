@@ -1,0 +1,21 @@
+NORM
+Yunel Escobar	3B
+Kole Calhoun	RF
+Mike Trout	CF
+Albert Pujols	1B
+Danny Espinosa	2B
+Cameron Maybin	LF
+Andrelton Simmons	SS
+Martin Maldonado	C
+Pitcher	SP
+
+WDH
+Yunel Escobar	3B
+Kole Calhoun	RF
+Mike Trout	CF
+Albert Pujols	DH
+Luis Valbuena	1B
+Danny Espinosa	2B
+Cameron Maybin	LF
+Andrelton Simmons	SS
+Martin Maldonado	C

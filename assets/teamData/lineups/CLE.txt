@@ -1,0 +1,21 @@
+NORM
+Carlos Santana	RF
+Jason Kipnis	2B
+Francisco Lindor	SS
+Edwin Encarnacion	1B
+Michael Brantley	LF
+Jose Ramirez	3B
+Yan Gomes	C
+Tyler Naquin	CF
+Pitcher	SP
+
+WDH
+Carlos Santana	DH
+Jason Kipnis	2B
+Francisco Lindor	SS
+Edwin Encarnacion	1B
+Michael Brantley	LF
+Jose Ramirez	3B
+Lonnie Chisenhall	RF
+Yan Gomes	C
+Tyler Naquin	CF

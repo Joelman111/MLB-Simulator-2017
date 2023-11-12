@@ -1,0 +1,21 @@
+NORM
+Adam Jones	CF
+Seth Smith	RF
+Manny Machado	3B
+Chris Davis	1B
+Mark Trumbo	LF
+Jonathan Schoop	2B
+Welington Castillo	C
+J.J. Hardy	SS
+Pitcher	SP
+
+WDH
+Adam Jones	CF
+Seth Smith	RF
+Manny Machado	3B
+Chris Davis	1B
+Mark Trumbo	DH
+Jonathan Schoop	2B
+Welington Castillo	C
+J.J. Hardy	SS
+Hyun Soo Kim	LF

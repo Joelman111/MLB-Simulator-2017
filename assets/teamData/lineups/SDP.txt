@@ -1,0 +1,21 @@
+NORM
+Travis Jankowski	LF
+Manuel Margot	CF
+Wil Myers	1B
+Yangervis Solarte	3B
+Hunter Renfroe	RF
+Ryan Schimpf	2B
+Austin Hedges	C
+Luis Sardinas	SS
+Pitcher	SP
+
+WDH
+Travis Jankowski	LF
+Manuel Margot	CF
+Wil Myers	1B
+Yangervis Solarte	3B
+Alex Dickerson	DH
+Hunter Renfroe	RF
+Ryan Schimpf	2B
+Austin Hedges	C
+Luis Sardinas	SS

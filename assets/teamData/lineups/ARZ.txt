@@ -1,0 +1,21 @@
+NORM
+A.J. Pollock	CF
+Jake Lamb	3B
+Paul Goldschmidt	1B
+David Peralta	RF
+Yasmany Tomas	LF
+Nick Ahmed	SS
+Brandon Drury	2B
+Chris Iannetta	C
+Pitcher	SP
+
+WDH
+A.J. Pollock	CF
+Jake Lamb	3B
+Paul Goldschmidt	1B
+David Peralta	RF
+Yasmany Tomas	DH
+Nick Ahmed	SS
+Brandon Drury	2B
+Chris Iannetta	C
+Jeremy Hazelbaker	LF

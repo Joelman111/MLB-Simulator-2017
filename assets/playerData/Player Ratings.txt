@@ -1,0 +1,3746 @@
+Player: Kole Calhoun
+Pos: RF
+Num: 56
+Rat: 80,84,81,84,65,75
+
+Player: Yasmany Tomas
+Pos: LF
+Num: 24
+Rat: 79,81,91,73,61,75
+
+Player: David Peralta
+Pos: RF
+Num: 6
+Rat: 72,71,76,65,78,75
+
+Player: Chris Herrmann
+Pos: LF
+Num: 10
+Rat: 80,77,84,81,84,75
+
+Player: Hyun Soo Kim
+Pos: LF
+Num: 25
+Rat: 80,88,76,86,62,75
+
+Player: Ryan Flaherty
+Pos: SS
+Num: 3
+Rat: 66,61,66,74,59,75
+
+Player: Ryan Hanigan
+Pos: C
+Num: 10
+Rat: 55,51,55,60,45,75
+
+Player: Brock Holt
+Pos: LF
+Num: 12
+Rat: 74,76,74,76,60,75
+
+Player: Willson Contreras
+Pos: C
+Num: 40
+Rat: 80,80,86,82,66,75
+
+Player: Dexter Fowler
+Pos: CF
+Num: 24
+Rat: 84,82,81,94,80,75
+
+Player: Matt Szczur
+Pos: LF
+Num: 20
+Rat: 73,74,75,71,70,75
+
+Player: Jose Peraza
+Pos: 2B
+Num: 9
+Rat: 79,90,73,65,96,75
+
+Player: Jose Ramirez
+Pos: 2B
+Num: 11
+Rat: 85,95,81,81,81,75
+
+Player: Jason Kipnis
+Pos: 2B
+Num: 22
+Rat: 82,83,85,82,76,75
+
+Player: Trevor Story
+Pos: SS
+Num: 27
+Rat: 83,77,97,82,77,75
+
+Player: Carlos Gomez
+Pos: CF
+Num: 14
+Rat: 74,68,76,74,80,75
+
+Player: Luis Valbuena
+Pos: 3B
+Num: 18
+Rat: 79,76,84,88,62,75
+
+Player: Drew Butera
+Pos: C
+Num: 9
+Rat: 74,75,81,72,58,75
+
+Player: Alex Gordon
+Pos: LF
+Num: 4
+Rat: 74,66,77,80,72,75
+
+Player: Justin Turner
+Pos: 3B
+Num: 10
+Rat: 82,85,88,80,67,75
+
+Player: Jayson Werth
+Pos: LF
+Num: 28
+Rat: 77,75,81,85,57,75
+
+Player: Danny Espinosa
+Pos: SS
+Num: 8
+Rat: 72,65,78,78,61,75
+
+Player: Trea Turner
+Pos: SS
+Num: 7
+Rat: 88,95,92,75,100,75
+
+Player: Rene Rivera
+Pos: C
+Num: 44
+Rat: 66,64,71,71,45,75
+
+Player: Francisco Cervelli
+Pos: C
+Num: 29
+Rat: 76,78,64,89,71,75
+
+Player: Josh Harrison
+Pos: 2B
+Num: 5
+Rat: 76,85,71,66,85,75
+
+Player: Alexi Amarista
+Pos: 3B
+Num: 5
+Rat: 67,71,55,65,77,75
+
+Player: Travis Jankowski
+Pos: CF
+Num: 16
+Rat: 75,71,64,81,93,75
+
+Player: Matt Adams
+Pos: LF
+Num: 32
+Rat: 74,73,86,75,45,75
+
+Player: Tommy Pham
+Pos: CF
+Num: 28
+Rat: 72,60,82,80,59,75
+
+Player: Logan Morrison
+Pos: 1B
+Num: 7
+Rat: 75,72,79,79,67,75
+
+Player: Carlos Beltran
+Pos: DH
+Num: 36
+Rat: 81,89,91,77,50,75
+
+Player: Jurickson Profar
+Pos: LF
+Num: 19
+Rat: 73,72,69,78,70,75
+
+Player: Michael Saunders
+Pos: LF
+Num: 21
+Rat: 79,75,87,84,62,75
+
+Player: Troy Tulowitzki
+Pos: SS
+Num: 2
+Rat: 76,79,84,78,51,75
+
+Player: Danny Santana
+Pos: LF
+Num: 39
+Rat: 69,69,64,64,87,75
+
+Player: Robbie Grossman
+Pos: DH
+Num: 36
+Rat: 81,80,81,92,64,75
+
+Player: Cesar Hernandez
+Pos: 2B
+Num: 16
+Rat: 82,87,73,86,83,75
+
+Player: Cameron Rupp
+Pos: C
+Num: 29
+Rat: 73,73,82,71,61,75
+
+Player: Chase d'Arnaud
+Pos: SS
+Num: 23
+Rat: 72,72,64,75,82,75
+
+Player: Gary Sanchez
+Pos: C
+Num: 24
+Rat: 84,84,100,87,54,75
+
+Player: Chase Headley
+Pos: 3B
+Num: 12
+Rat: 76,76,76,81,70,75
+
+Player: Jonathan Villar
+Pos: 2B
+Num: 5
+Rat: 85,83,83,89,96,75
+
+Player: Domingo Santana
+Pos: RF
+Num: 16
+Rat: 76,71,82,84,56,75
+
+Player: Paul Goldschmidt
+Pos: 1B
+Num: 44
+Rat: 89,89,88,98,84,75
+
+Player: Zack Cozart
+Pos: SS
+Num: 2
+Rat: 76,79,80,75,67,75
+
+Player: Abraham Almonte
+Pos: LF
+Num: 35
+Rat: 71,74,69,64,83,75
+
+Player: Francisco Lindor
+Pos: SS
+Num: 12
+Rat: 83,91,80,82,78,75
+
+Player: Cameron Maybin
+Pos: CF
+Num: 4
+Rat: 83,89,75,84,86,75
+
+Player: Salvador Perez
+Pos: C
+Num: 13
+Rat: 72,75,83,66,55,75
+
+Player: Josh Reddick
+Pos: RF
+Num: 11
+Rat: 79,85,77,80,72,75
+
+Player: Joc Pederson
+Pos: CF
+Num: 31
+Rat: 80,74,90,89,60,75
+
+Player: Khris Davis
+Pos: LF
+Num: 2
+Rat: 78,75,95,76,60,75
+
+Player: Stephen Vogt
+Pos: C
+Num: 21
+Rat: 74,79,77,73,55,75
+
+Player: Ryan Schimpf
+Pos: 3B
+Num: 11
+Rat: 79,66,93,87,68,75
+
+Player: Christian Bethancourt
+Pos: C
+Num: 12
+Rat: 65,64,72,63,54,75
+
+Player: Shawn O'Malley
+Pos: SS
+Num: 36
+Rat: 69,66,64,72,80,75
+
+Player: Chris Iannetta
+Pos: C
+Num: 33
+Rat: 68,64,69,79,45,75
+
+Player: Mac Williamson
+Pos: RF
+Num: 51
+Rat: 69,63,79,77,45,75
+
+Player: Brandon Moss
+Pos: 1B
+Num: 37
+Rat: 75,68,89,77,62,75
+
+Player: Kolten Wong
+Pos: 2B
+Num: 16
+Rat: 75,75,70,79,80,75
+
+Player: Yadier Molina
+Pos: C
+Num: 4
+Rat: 80,93,77,79,63,75
+
+Player: Robinson Chirinos
+Pos: C
+Num: 61
+Rat: 72,66,86,76,45,75
+
+Player: Mitch Moreland
+Pos: 1B
+Num: 18
+Rat: 73,72,82,74,51,75
+
+Player: Rougned Odor
+Pos: 2B
+Num: 12
+Rat: 79,82,90,65,77,75
+
+Player: Brett Lawrie
+Pos: 2B
+Num: 15
+Rat: 73,71,78,75,63,75
+
+Player: Derek Dietrich
+Pos: 3B
+Num: 32
+Rat: 78,82,77,81,66,75
+
+Player: Dee Gordon
+Pos: 2B
+Num: 9
+Rat: 75,79,64,68,100,75
+
+Player: Giancarlo Stanton
+Pos: RF
+Num: 27
+Rat: 77,71,90,83,54,75
+
+Player: Cliff Pennington
+Pos: SS
+Num: 7
+Rat: 65,59,64,67,69,75
+
+Player: Andrelton Simmons
+Pos: SS
+Num: 2
+Rat: 77,87,70,72,75,75
+
+Player: Jean Segura
+Pos: 2B
+Num: 2
+Rat: 87,95,87,79,88,75
+
+Player: Mark Trumbo
+Pos: RF
+Num: 45
+Rat: 80,78,96,79,60,75
+
+Player: Sandy Leon
+Pos: C
+Num: 3
+Rat: 79,85,82,81,58,75
+
+Player: Jackie Bradley Jr.
+Pos: CF
+Num: 25
+Rat: 83,81,88,85,75,75
+
+Player: Miguel Montero
+Pos: C
+Num: 47
+Rat: 73,67,73,84,63,75
+
+Player: Ben Zobrist
+Pos: 2B
+Num: 18
+Rat: 85,86,83,95,69,75
+
+Player: DJ LeMahieu
+Pos: 2B
+Num: 9
+Rat: 89,100,84,92,77,75
+
+Player: Ryan Raburn
+Pos: LF
+Num: 6
+Rat: 71,63,77,79,58,75
+
+Player: Nolan Arenado
+Pos: 3B
+Num: 28
+Rat: 87,91,97,87,65,75
+
+Player: Victor Martinez
+Pos: DH
+Num: 41
+Rat: 80,88,87,82,45,75
+
+Player: Tyler Collins
+Pos: RF
+Num: 18
+Rat: 71,66,73,74,73,75
+
+Player: Tony Kemp
+Pos: LF
+Num: 16
+Rat: 69,64,63,74,79,75
+
+Player: Carlos Correa
+Pos: SS
+Num: 1
+Rat: 83,83,83,88,74,75
+
+Player: Marwin Gonzalez
+Pos: 1B
+Num: 9
+Rat: 74,76,76,67,77,75
+
+Player: Jarrod Dyson
+Pos: CF
+Num: 1
+Rat: 80,84,69,77,100,75
+
+Player: Whit Merrifield
+Pos: 2B
+Num: 15
+Rat: 75,80,70,72,79,75
+
+Player: Corey Seager
+Pos: SS
+Num: 5
+Rat: 84,91,89,83,66,75
+
+Player: Anthony Rendon
+Pos: 3B
+Num: 6
+Rat: 81,83,83,84,73,75
+
+Player: Stephen Drew
+Pos: 2B
+Num: 10
+Rat: 78,77,88,80,57,75
+
+Player: Jon Jay
+Pos: CF
+Num: 24
+Rat: 74,82,70,72,64,75
+
+Player: Kelby Tomlinson
+Pos: 2B
+Num: 37
+Rat: 74,80,61,80,72,75
+
+Player: Greg Garcia
+Pos: 3B
+Num: 35
+Rat: 77,79,71,91,53,75
+
+Player: Matt Holliday
+Pos: LF
+Num: 7
+Rat: 76,77,85,78,54,75
+
+Player: Matt Carpenter
+Pos: 1B
+Num: 13
+Rat: 84,84,88,94,59,75
+
+Player: Luke Maile
+Pos: C
+Num: 46
+Rat: 61,61,69,56,45,75
+
+Player: Desmond Jennings
+Pos: LF
+Num: 8
+Rat: 68,60,72,73,68,75
+
+Player: Corey Dickerson
+Pos: DH
+Num: 10
+Rat: 75,75,86,72,57,75
+
+Player: Elvis Andrus
+Pos: SS
+Num: 1
+Rat: 84,91,78,82,87,75
+
+Player: Shin-Soo Choo
+Pos: DH
+Num: 17
+Rat: 76,71,77,84,67,75
+
+Player: Russell Martin
+Pos: C
+Num: 55
+Rat: 75,70,80,85,53,75
+
+Player: Kevin Pillar
+Pos: CF
+Num: 11
+Rat: 74,81,72,67,75,75
+
+Player: Kurt Suzuki
+Pos: C
+Num: 8
+Rat: 72,79,75,68,54,75
+
+Player: Eduardo Escobar
+Pos: 3B
+Num: 5
+Rat: 69,71,68,67,63,75
+
+Player: Aaron Altherr
+Pos: RF
+Num: 23
+Rat: 66,57,64,75,68,75
+
+Player: Cody Asche
+Pos: LF
+Num: 25
+Rat: 67,63,69,72,60,75
+
+Player: Freddy Galvis
+Pos: SS
+Num: 13
+Rat: 73,74,78,65,78,75
+
+Player: Odubel Herrera
+Pos: CF
+Num: 37
+Rat: 82,85,79,84,84,75
+
+Player: Maikel Franco
+Pos: 3B
+Num: 7
+Rat: 76,80,82,74,58,75
+
+Player: Miguel Rojas
+Pos: 3B
+Num: 19
+Rat: 67,74,63,65,58,75
+
+Player: Austin Romine
+Pos: C
+Num: 27
+Rat: 67,71,72,61,55,75
+
+Player: Starlin Castro
+Pos: 2B
+Num: 14
+Rat: 75,81,81,67,64,75
+
+Player: Orlando Arcia
+Pos: SS
+Num: 3
+Rat: 70,65,69,68,86,75
+
+Player: Ryan Braun
+Pos: LF
+Num: 8
+Rat: 87,91,94,84,79,75
+
+Player: Hernan Perez
+Pos: SS
+Num: 14
+Rat: 78,79,79,67,95,75
+
+Player: C.J. Cron
+Pos: 1B
+Num: 24
+Rat: 78,83,84,73,65,75
+
+Player: Welington Castillo
+Pos: C
+Num: 7
+Rat: 74,76,80,76,54,75
+
+Player: Jake Lamb
+Pos: 3B
+Num: 22
+Rat: 81,76,90,85,74,75
+
+Player: Christian Vazquez
+Pos: C
+Num: 7
+Rat: 64,66,61,64,57,75
+
+Player: Chris Young
+Pos: LF
+Num: 30
+Rat: 79,79,86,81,62,75
+
+Player: Travis Shaw
+Pos: 3B
+Num: 47
+Rat: 75,73,79,76,68,75
+
+Player: Mookie Betts
+Pos: RF
+Num: 50
+Rat: 88,97,92,81,82,75
+
+Player: Joey Votto
+Pos: 1B
+Num: 19
+Rat: 92,97,94,100,69,75
+
+Player: Brandon Guyer
+Pos: LF
+Num: 6
+Rat: 77,81,79,76,67,75
+
+Player: Rajai Davis
+Pos: CF
+Num: 20
+Rat: 77,75,75,73,94,75
+
+Player: Carlos Gonzalez
+Pos: RF
+Num: 5
+Rat: 82,88,89,81,62,75
+
+Player: Erick Aybar
+Pos: SS
+Num: 15
+Rat: 71,75,65,72,67,75
+
+Player: Jose Iglesias
+Pos: SS
+Num: 1
+Rat: 72,81,67,70,60,75
+
+Player: James McCann
+Pos: C
+Num: 34
+Rat: 67,64,74,68,54,75
+
+Player: Jake Marisnick
+Pos: CF
+Num: 6
+Rat: 67,62,67,64,79,75
+
+Player: Paulo Orlando
+Pos: RF
+Num: 16
+Rat: 76,85,73,65,81,75
+
+Player: Mike Moustakas
+Pos: 3B
+Num: 8
+Rat: 74,74,87,73,45,75
+
+Player: Yasiel Puig
+Pos: RF
+Num: 66
+Rat: 76,78,78,74,72,75
+
+Player: Daniel Murphy
+Pos: 2B
+Num: 20
+Rat: 89,100,96,83,71,75
+
+Player: Chris Heisey
+Pos: LF
+Num: 14
+Rat: 70,62,83,73,57,75
+
+Player: Curtis Granderson
+Pos: CF
+Num: 3
+Rat: 80,76,87,86,68,75
+
+Player: Juan Lagares
+Pos: CF
+Num: 12
+Rat: 72,71,71,70,81,75
+
+Player: Asdrubal Cabrera
+Pos: SS
+Num: 13
+Rat: 80,85,86,77,66,75
+
+Player: Marcus Semien
+Pos: SS
+Num: 10
+Rat: 77,74,83,77,72,75
+
+Player: David Freese
+Pos: 3B
+Num: 23
+Rat: 74,77,78,82,45,75
+
+Player: Yangervis Solarte
+Pos: 2B
+Num: 26
+Rat: 79,86,84,77,60,75
+
+Player: Guillermo Heredia
+Pos: LF
+Num: 5
+Rat: 70,72,63,79,58,75
+
+Player: Mike Zunino
+Pos: C
+Num: 3
+Rat: 71,60,87,80,45,75
+
+Player: Adam Lind
+Pos: 1B
+Num: 26
+Rat: 72,73,83,70,45,75
+
+Player: Conor Gillaspie
+Pos: 3B
+Num: 21
+Rat: 75,78,78,70,71,75
+
+Player: Brandon Belt
+Pos: 1B
+Num: 9
+Rat: 83,83,84,97,60,75
+
+Player: Hunter Pence
+Pos: RF
+Num: 8
+Rat: 80,84,82,84,60,75
+
+Player: Tim Beckham
+Pos: SS
+Num: 1
+Rat: 73,68,77,71,76,75
+
+Player: Nomar Mazara
+Pos: RF
+Num: 30
+Rat: 76,80,81,76,57,75
+
+Player: Ian Desmond
+Pos: CF
+Num: 20
+Rat: 80,83,83,77,79,75
+
+Player: Adrian Beltre
+Pos: 3B
+Num: 29
+Rat: 84,93,92,82,58,75
+
+Player: Tommy Joseph
+Pos: 1B
+Num: 19
+Rat: 76,77,90,73,52,75
+
+Player: Tyler Flowers
+Pos: C
+Num: 25
+Rat: 74,75,78,81,45,75
+
+Player: Tim Anderson
+Pos: SS
+Num: 12
+Rat: 75,79,78,64,80,75
+
+Player: Marcell Ozuna
+Pos: LF
+Num: 13
+Rat: 78,81,84,77,59,75
+
+Player: Jeff Mathis
+Pos: C
+Num: 6
+Rat: 63,64,66,57,58,75
+
+Player: Brian McCann
+Pos: C
+Num: 34
+Rat: 76,75,81,83,51,75
+
+Player: Didi Gregorius
+Pos: SS
+Num: 18
+Rat: 77,85,82,65,69,75
+
+Player: Ronald Torreyes
+Pos: 3B
+Num: 17
+Rat: 72,76,67,69,78,75
+
+Player: Martin Maldonado
+Pos: C
+Num: 12
+Rat: 71,64,73,84,53,75
+
+Player: Mitch Haniger
+Pos: RF
+Num: 19
+Rat: 71,66,77,76,58,75
+
+Player: Brandon Drury
+Pos: 2B
+Num: 27
+Rat: 78,83,83,75,60,75
+
+Player: Chris Owings
+Pos: SS
+Num: 16
+Rat: 77,82,74,69,91,75
+
+Player: Nick Ahmed
+Pos: SS
+Num: 13
+Rat: 66,67,64,63,72,75
+
+Player: Steve Pearce
+Pos: LF
+Num: 28
+Rat: 81,84,87,87,55,75
+
+Player: Caleb Joseph
+Pos: C
+Num: 36
+Rat: 54,54,48,56,45,75
+
+Player: Jonathan Schoop
+Pos: 2B
+Num: 6
+Rat: 75,81,84,65,58,75
+
+Player: Dustin Pedroia
+Pos: 2B
+Num: 15
+Rat: 84,96,81,85,66,75
+
+Player: Xander Bogaerts
+Pos: SS
+Num: 2
+Rat: 82,89,83,82,70,75
+
+Player: Hanley Ramirez
+Pos: DH
+Num: 13
+Rat: 84,86,91,86,69,75
+
+Player: Javier Baez
+Pos: 2B
+Num: 9
+Rat: 75,79,79,66,75,75
+
+Player: Jorge Soler
+Pos: LF
+Num: 68
+Rat: 74,70,82,83,45,75
+
+Player: Jay Bruce
+Pos: RF
+Num: 19
+Rat: 80,78,91,77,70,75
+
+Player: Brandon Phillips
+Pos: 2B
+Num: 4
+Rat: 77,88,77,66,74,75
+
+Player: Tony Wolters
+Pos: C
+Num: 14
+Rat: 75,73,72,78,76,75
+
+Player: Jose Altuve
+Pos: 2B
+Num: 27
+Rat: 90,100,90,87,84,75
+
+Player: Kendrys Morales
+Pos: DH
+Num: 25
+Rat: 77,81,87,79,45,75
+
+Player: Yasmani Grandal
+Pos: C
+Num: 9
+Rat: 79,71,89,89,60,75
+
+Player: Ryan Zimmerman
+Pos: 1B
+Num: 11
+Rat: 70,68,75,69,66,75
+
+Player: Wilmer Flores
+Pos: 3B
+Num: 4
+Rat: 77,81,86,75,52,75
+
+Player: Lucas Duda
+Pos: 1B
+Num: 21
+Rat: 70,68,78,74,45,75
+
+Player: Josh Bell
+Pos: 1B
+Num: 55
+Rat: 76,80,74,87,45,75
+
+Player: Adam Frazier
+Pos: LF
+Num: 26
+Rat: 77,83,72,76,78,75
+
+Player: Starling Marte
+Pos: LF
+Num: 6
+Rat: 83,89,80,74,98,75
+
+Player: Luis Sardinas
+Pos: 3B
+Num: 2
+Rat: 70,68,70,68,75,75
+
+Player: Adam Rosales
+Pos: 3B
+Num: 9
+Rat: 77,64,87,82,77,75
+
+Player: Melvin Upton Jr.
+Pos: LF
+Num: 7
+Rat: 75,70,79,73,86,75
+
+Player: Jarrett Parker
+Pos: LF
+Num: 6
+Rat: 72,65,76,84,57,75
+
+Player: Denard Span
+Pos: CF
+Num: 2
+Rat: 79,84,74,79,76,75
+
+Player: Jedd Gyorko
+Pos: 3B
+Num: 3
+Rat: 77,75,92,78,54,75
+
+Player: Brad Miller
+Pos: 2B
+Num: 13
+Rat: 78,75,88,77,72,75
+
+Player: Jose Bautista
+Pos: RF
+Num: 19
+Rat: 81,75,85,94,62,75
+
+Player: Edwin Encarnacion
+Pos: DH
+Num: 10
+Rat: 83,83,95,90,52,75
+
+Player: Jorge Polanco
+Pos: SS
+Num: 11
+Rat: 77,81,75,74,77,75
+
+Player: Andres Blanco
+Pos: 2B
+Num: 4
+Rat: 72,73,74,69,69,75
+
+Player: Ender Inciarte
+Pos: CF
+Num: 11
+Rat: 79,88,70,79,82,75
+
+Player: Adonis Garcia
+Pos: 3B
+Num: 13
+Rat: 74,83,77,68,55,75
+
+Player: Jace Peterson
+Pos: LF
+Num: 8
+Rat: 77,78,72,86,69,75
+
+Player: Mallex Smith
+Pos: CF
+Num: 17
+Rat: 75,69,69,76,98,75
+
+Player: Ichiro Suzuki
+Pos: RF
+Num: 51
+Rat: 78,86,68,79,82,75
+
+Player: Martin Prado
+Pos: 3B
+Num: 14
+Rat: 80,93,76,80,63,75
+
+Player: Jacoby Ellsbury
+Pos: CF
+Num: 22
+Rat: 78,82,73,79,82,75
+
+Player: Brett Gardner
+Pos: LF
+Num: 11
+Rat: 79,81,71,85,80,75
+
+Player: Kirk Nieuwenhuis
+Pos: CF
+Num: 10
+Rat: 74,62,77,86,73,75
+
+Player: Carlos Perez
+Pos: C
+Num: 58
+Rat: 64,66,67,60,53,75
+
+Player: Mike Trout
+Pos: CF
+Num: 27
+Rat: 93,94,94,100,85,75
+
+Player: Matt Wieters
+Pos: C
+Num: 32
+Rat: 74,75,79,73,60,75
+
+Player: Adam Jones
+Pos: CF
+Num: 10
+Rat: 76,82,84,73,52,75
+
+Player: Joey Rickard
+Pos: RF
+Num: 23
+Rat: 72,77,72,72,61,75
+
+Player: Chris Coghlan
+Pos: LF
+Num: 8
+Rat: 68,60,67,78,68,75
+
+Player: Addison Russell
+Pos: SS
+Num: 27
+Rat: 77,74,81,80,68,75
+
+Player: Adam Duvall
+Pos: LF
+Num: 23
+Rat: 78,74,90,75,72,75
+
+Player: Carlos Santana
+Pos: 1B
+Num: 41
+Rat: 85,84,91,93,67,75
+
+Player: Nick Hundley
+Pos: C
+Num: 4
+Rat: 75,77,80,76,55,75
+
+Player: Gerardo Parra
+Pos: LF
+Num: 8
+Rat: 70,75,74,58,75,75
+
+Player: J.D. Martinez
+Pos: RF
+Num: 28
+Rat: 84,88,91,86,61,75
+
+Player: Evan Gattis
+Pos: C
+Num: 11
+Rat: 78,76,92,80,53,75
+
+Player: Colby Rasmus
+Pos: LF
+Num: 28
+Rat: 70,62,75,77,58,75
+
+Player: George Springer
+Pos: RF
+Num: 4
+Rat: 82,80,86,89,72,75
+
+Player: Alcides Escobar
+Pos: SS
+Num: 2
+Rat: 74,81,69,66,79,75
+
+Player: Carlos Ruiz
+Pos: C
+Num: 51
+Rat: 75,78,69,84,60,75
+
+Player: Chase Utley
+Pos: 2B
+Num: 26
+Rat: 75,77,77,75,64,75
+
+Player: Ben Revere
+Pos: CF
+Num: 9
+Rat: 69,72,62,63,87,75
+
+Player: Jose Lobaton
+Pos: C
+Num: 59
+Rat: 71,69,72,77,58,75
+
+Player: Jed Lowrie
+Pos: 2B
+Num: 8
+Rat: 70,77,64,73,54,75
+
+Player: Eric Fryer
+Pos: C
+Num: 24
+Rat: 69,73,60,77,58,75
+
+Player: Gregory Polanco
+Pos: LF
+Num: 25
+Rat: 81,79,85,80,80,75
+
+Player: Jordy Mercer
+Pos: SS
+Num: 10
+Rat: 76,80,74,79,62,75
+
+Player: Matt Joyce
+Pos: RF
+Num: 17
+Rat: 82,74,85,99,63,75
+
+Player: Alex Dickerson
+Pos: LF
+Num: 24
+Rat: 79,78,82,79,75,75
+
+Player: Wil Myers
+Pos: 1B
+Num: 4
+Rat: 82,79,86,84,84,75
+
+Player: Seth Smith
+Pos: RF
+Num: 7
+Rat: 75,76,80,84,45,75
+
+Player: Kyle Seager
+Pos: 3B
+Num: 15
+Rat: 84,87,90,87,65,75
+
+Player: Nelson Cruz
+Pos: DH
+Num: 23
+Rat: 85,86,97,86,60,75
+
+Player: Eduardo Nunez
+Pos: 3B
+Num: 10
+Rat: 81,87,80,72,91,75
+
+Player: Buster Posey
+Pos: C
+Num: 28
+Rat: 82,89,80,86,68,75
+
+Player: Aledmys Diaz
+Pos: SS
+Num: 36
+Rat: 85,91,88,84,70,75
+
+Player: Jeremy Hazelbaker
+Pos: LF
+Num: 41
+Rat: 76,67,86,74,80,75
+
+Player: Randal Grichuk
+Pos: LF
+Num: 15
+Rat: 75,71,87,71,71,75
+
+Player: Evan Longoria
+Pos: 3B
+Num: 3
+Rat: 80,83,92,76,57,75
+
+Player: Mikie Mahtook
+Pos: LF
+Num: 27
+Rat: 57,53,62,56,45,75
+
+Player: Ryan Rua
+Pos: LF
+Num: 16
+Rat: 75,72,77,76,79,75
+
+Player: Josh Donaldson
+Pos: 3B
+Num: 20
+Rat: 90,89,96,99,71,75
+
+Player: Byron Buxton
+Pos: CF
+Num: 25
+Rat: 73,63,79,71,85,75
+
+Player: Nick Markakis
+Pos: RF
+Num: 22
+Rat: 77,84,76,84,45,75
+
+Player: Alex Avila
+Pos: C
+Num: 31
+Rat: 71,59,75,91,45,75
+
+Player: Adam Eaton
+Pos: RF
+Num: 1
+Rat: 82,87,79,84,79,75
+
+Player: Todd Frazier
+Pos: 3B
+Num: 21
+Rat: 78,72,89,80,65,75
+
+Player: J.T. Realmuto
+Pos: C
+Num: 11
+Rat: 78,88,78,74,64,75
+
+Player: Christian Yelich
+Pos: CF
+Num: 21
+Rat: 85,88,86,89,71,75
+
+Player: Adeiny Hechavarria
+Pos: SS
+Num: 3
+Rat: 70,75,64,69,65,75
+
+Player: Aaron Hicks
+Pos: LF
+Num: 31
+Rat: 70,68,70,72,67,75
+
+Player: Scooter Gennett
+Pos: 2B
+Num: 2
+Rat: 76,79,78,75,69,75
+
+Player: Albert Pujols
+Pos: DH
+Num: 5
+Rat: 79,86,86,78,55,75
+
+Player: J.J. Hardy
+Pos: SS
+Num: 2
+Rat: 73,81,76,72,45,75
+
+Player: Chris Davis
+Pos: 1B
+Num: 19
+Rat: 77,68,89,88,50,75
+
+Player: Manny Machado
+Pos: 3B
+Num: 13
+Rat: 83,90,94,80,53,75
+
+Player: Andrew Benintendi
+Pos: LF
+Num: 40
+Rat: 77,79,78,79,70,75
+
+Player: Jason Heyward
+Pos: RF
+Num: 22
+Rat: 73,74,67,77,71,75
+
+Player: Kris Bryant
+Pos: 3B
+Num: 17
+Rat: 88,88,96,91,70,75
+
+Player: Tucker Barnhart
+Pos: C
+Num: 16
+Rat: 74,78,73,78,61,75
+
+Player: Scott Schebler
+Pos: RF
+Num: 43
+Rat: 76,77,79,75,69,75
+
+Player: Lonnie Chisenhall
+Pos: RF
+Num: 8
+Rat: 78,84,78,73,76,75
+
+Player: Mike Napoli
+Pos: 1B
+Num: 26
+Rat: 79,72,88,86,65,75
+
+Player: Daniel Descalso
+Pos: 1B
+Num: 3
+Rat: 78,78,78,84,71,75
+
+Player: Justin Upton
+Pos: LF
+Num: 8
+Rat: 78,74,87,78,71,75
+
+Player: Jarrod Saltalamacchia
+Pos: C
+Num: 39
+Rat: 67,52,74,81,55,75
+
+Player: Jason Castro
+Pos: C
+Num: 15
+Rat: 72,62,75,81,68,75
+
+Player: Andrew Toles
+Pos: LF
+Num: 60
+Rat: 79,82,82,77,71,75
+
+Player: Adrian Gonzalez
+Pos: 1B
+Num: 23
+Rat: 78,85,81,82,45,75
+
+Player: Clint Robinson
+Pos: 1B
+Num: 25
+Rat: 68,71,69,74,45,75
+
+Player: Jose Reyes
+Pos: 3B
+Num: 7
+Rat: 79,79,80,77,84,75
+
+Player: Neil Walker
+Pos: 2B
+Num: 20
+Rat: 82,84,88,82,65,75
+
+Player: Michael Conforto
+Pos: LF
+Num: 30
+Rat: 73,67,79,79,65,75
+
+Player: Yonder Alonso
+Pos: 1B
+Num: 17
+Rat: 73,79,71,77,55,75
+
+Player: Andrew McCutchen
+Pos: RF
+Num: 22
+Rat: 79,79,82,83,68,75
+
+Player: Derek Norris
+Pos: C
+Num: 3
+Rat: 66,58,71,70,63,75
+
+Player: Matt Kemp
+Pos: RF
+Num: 27
+Rat: 77,81,90,73,50,75
+
+Player: Robinson Cano
+Pos: 2B
+Num: 22
+Rat: 84,92,94,80,55,75
+
+Player: Franklin Gutierrez
+Pos: RF
+Num: 21
+Rat: 75,70,84,81,53,75
+
+Player: Brandon Crawford
+Pos: SS
+Num: 35
+Rat: 80,83,78,82,76,75
+
+Player: Stephen Piscotty
+Pos: RF
+Num: 55
+Rat: 80,83,84,80,70,75
+
+Player: Nick Franklin
+Pos: LF
+Num: 2
+Rat: 76,76,79,73,80,75
+
+Player: Logan Forsythe
+Pos: 2B
+Num: 11
+Rat: 79,79,83,79,71,75
+
+Player: Curt Casali
+Pos: C
+Num: 19
+Rat: 64,55,71,73,45,75
+
+Player: Jonathan Lucroy
+Pos: C
+Num: 25
+Rat: 83,87,89,83,69,75
+
+Player: Justin Smoak
+Pos: 1B
+Num: 14
+Rat: 71,63,78,81,52,75
+
+Player: Ezequiel Carrera
+Pos: LF
+Num: 3
+Rat: 74,72,71,77,75,75
+
+Player: Kennys Vargas
+Pos: 1B
+Num: 19
+Rat: 74,65,88,85,45,75
+
+Player: Eddie Rosario
+Pos: LF
+Num: 20
+Rat: 73,76,78,64,72,75
+
+Player: Miguel Sano
+Pos: 3B
+Num: 22
+Rat: 76,68,87,83,60,75
+
+Player: Dansby Swanson
+Pos: SS
+Num: 2
+Rat: 78,80,77,80,76,75
+
+Player: Tyler Saladino
+Pos: 2B
+Num: 18
+Rat: 74,80,76,67,69,75
+
+Player: Yolmer Sanchez
+Pos: 2B
+Num: 5
+Rat: 62,60,70,55,57,75
+
+Player: Avisail Garcia
+Pos: RF
+Num: 26
+Rat: 73,72,75,75,68,75
+
+Player: Justin Bour
+Pos: 1B
+Num: 41
+Rat: 80,80,86,86,55,75
+
+Player: Chris Carter
+Pos: 1B
+Num: 33
+Rat: 78,69,92,85,62,75
+
+Player: Jett Bandy
+Pos: C
+Num: 13
+Rat: 69,71,76,65,54,75
+
+Player: Yunel Escobar
+Pos: 3B
+Num: 0
+Rat: 77,91,72,79,53,75
+
+Player: Anthony Rizzo
+Pos: 1B
+Num: 44
+Rat: 87,90,94,91,66,75
+
+Player: Eugenio Suarez
+Pos: 3B
+Num: 7
+Rat: 77,75,80,78,72,75
+
+Player: Billy Hamilton
+Pos: CF
+Num: 6
+Rat: 77,77,67,76,100,75
+
+Player: Roberto Perez
+Pos: C
+Num: 55
+Rat: 65,57,64,77,57,75
+
+Player: Tyler Naquin
+Pos: CF
+Num: 72
+Rat: 83,81,88,86,77,75
+
+Player: Charlie Blackmon
+Pos: CF
+Num: 19
+Rat: 89,96,94,83,79,75
+
+Player: Mark Reynolds
+Pos: 1B
+Num: 12
+Rat: 78,81,82,83,51,75
+
+Player: Andrew Romine
+Pos: CF
+Num: 17
+Rat: 71,69,65,70,86,75
+
+Player: Ian Kinsler
+Pos: 2B
+Num: 3
+Rat: 83,88,88,79,76,75
+
+Player: Miguel Cabrera
+Pos: 1B
+Num: 24
+Rat: 88,95,97,92,53,75
+
+Player: Alex Bregman
+Pos: 3B
+Num: 2
+Rat: 76,75,83,73,73,75
+
+Player: Christian Colon
+Pos: 2B
+Num: 24
+Rat: 63,67,60,68,45,75
+
+Player: Lorenzo Cain
+Pos: CF
+Num: 6
+Rat: 79,83,76,77,78,75
+
+Player: Eric Hosmer
+Pos: 1B
+Num: 35
+Rat: 79,81,83,80,64,75
+
+Player: Howie Kendrick
+Pos: LF
+Num: 47
+Rat: 76,78,72,79,73,75
+
+Player: A.J. Ellis
+Pos: C
+Num: 34
+Rat: 67,67,63,74,58,75
+
+Player: Enrique Hernandez
+Pos: CF
+Num: 14
+Rat: 66,58,69,76,57,75
+
+Player: Bryce Harper
+Pos: RF
+Num: 34
+Rat: 84,78,84,96,79,75
+
+Player: T.J. Rivera
+Pos: 2B
+Num: 54
+Rat: 75,88,80,64,59,75
+
+Player: Travis d'Arnaud
+Pos: C
+Num: 18
+Rat: 68,73,67,71,45,75
+
+Player: Yoenis Cespedes
+Pos: CF
+Num: 52
+Rat: 84,85,93,85,63,75
+
+Player: Ryon Healy
+Pos: 3B
+Num: 48
+Rat: 77,85,89,71,45,75
+
+Player: Jake Smolinski
+Pos: CF
+Num: 5
+Rat: 71,74,70,69,65,75
+
+Player: Danny Valencia
+Pos: 3B
+Num: 26
+Rat: 78,83,82,80,59,75
+
+Player: Chris Stewart
+Pos: C
+Num: 19
+Rat: 65,65,61,76,45,75
+
+Player: Jung Ho Kang
+Pos: 3B
+Num: 27
+Rat: 80,78,91,84,57,75
+
+Player: John Jaso
+Pos: 1B
+Num: 28
+Rat: 77,81,76,84,58,75
+
+Player: Leonys Martin
+Pos: CF
+Num: 12
+Rat: 75,73,75,75,83,75
+
+Player: Matt Duffy
+Pos: SS
+Num: 5
+Rat: 74,78,70,71,76,75
+
+Player: Joe Panik
+Pos: 2B
+Num: 12
+Rat: 77,79,74,79,73,75
+
+Player: Jhonny Peralta
+Pos: 3B
+Num: 27
+Rat: 73,77,76,72,55,75
+
+Player: Kevin Kiermaier
+Pos: CF
+Num: 39
+Rat: 79,76,78,80,86,75
+
+Player: Darwin Barney
+Pos: 3B
+Num: 18
+Rat: 74,79,71,74,68,75
+
+Player: Max Kepler
+Pos: RF
+Num: 26
+Rat: 76,73,81,79,71,75
+
+Player: Brian Dozier
+Pos: 2B
+Num: 2
+Rat: 85,84,96,83,79,75
+
+Player: Trevor Plouffe
+Pos: 3B
+Num: 24
+Rat: 74,78,79,70,62,75
+
+Player: Joe Mauer
+Pos: 1B
+Num: 7
+Rat: 79,81,75,90,65,75
+
+Player: Peter Bourjos
+Pos: RF
+Num: 17
+Rat: 72,73,72,66,78,75
+
+Player: Freddie Freeman
+Pos: 1B
+Num: 5
+Rat: 89,89,96,95,71,75
+
+Player: Melky Cabrera
+Pos: LF
+Num: 53
+Rat: 81,91,81,79,65,75
+
+Player: Jose Abreu
+Pos: 1B
+Num: 79
+Rat: 80,88,86,80,53,75
+
+Player: Keon Broxton
+Pos: CF
+Num: 23
+Rat: 79,66,80,88,96,75
+
+Player: Andrew Bailey
+Pos: RP
+Num: 37
+Rat: 70,71,74,18,69,62
+
+Player: Cam Bedrosian
+Pos: RP
+Num: 32
+Rat: 95,92,100,17,94,99
+
+Player: Jake Barrett
+Pos: RP
+Num: 33
+Rat: 78,74,79,17,82,74
+
+Player: Wade Miley
+Pos: SP
+Num: 38
+Rat: 69,73,71,77,65,66
+
+Player: Brad Brach
+Pos: RP
+Num: 35
+Rat: 91,87,98,19,94,83
+
+Player: Chaz Roe
+Pos: RP
+Num: 50
+Rat: 82,75,93,18,83,74
+
+Player: Brian Duensing
+Pos: RP
+Num: 50
+Rat: 68,76,63,17,66,62
+
+Player: Vance Worley
+Pos: RP
+Num: 48
+Rat: 69,71,63,35,71,71
+
+Player: Clay Buchholz
+Pos: SP
+Num: 11
+Rat: 69,70,62,51,74,68
+
+Player: Fernando Abad
+Pos: RP
+Num: 58
+Rat: 74,72,74,16,77,76
+
+Player: David Price
+Pos: SP
+Num: 24
+Rat: 80,83,85,94,74,73
+
+Player: Heath Hembree
+Pos: RP
+Num: 37
+Rat: 77,78,80,22,74,73
+
+Player: John Lackey
+Pos: SP
+Num: 41
+Rat: 84,83,84,88,87,76
+
+Player: Justin Verlander
+Pos: SP
+Num: 35
+Rat: 90,88,95,95,93,77
+
+Player: Mike Pelfrey
+Pos: RP
+Num: 37
+Rat: 59,64,50,67,57,67
+
+Player: Luke Gregerson
+Pos: RP
+Num: 44
+Rat: 89,84,92,18,97,77
+
+Player: Joakim Soria
+Pos: RP
+Num: 48
+Rat: 73,73,82,18,67,65
+
+Player: Max Scherzer
+Pos: SP
+Num: 31
+Rat: 93,90,100,94,97,77
+
+Player: Sonny Gray
+Pos: SP
+Num: 54
+Rat: 67,70,68,72,64,64
+
+Player: Brandon Maurer
+Pos: RP
+Num: 37
+Rat: 77,76,82,18,75,72
+
+Player: James Shields
+Pos: SP
+Num: 25
+Rat: 65,67,66,77,64,59
+
+Player: Evan Scribner
+Pos: RP
+Num: 58
+Rat: 100,100,100,20,100,100
+
+Player: Edwin Diaz
+Pos: RP
+Num: 39
+Rat: 87,87,100,19,80,77
+
+Player: Felix Hernandez
+Pos: SP
+Num: 34
+Rat: 74,73,72,83,78,73
+
+Player: Brad Boxberger
+Pos: RP
+Num: 26
+Rat: 66,62,71,17,67,68
+
+Player: Tony Barnette
+Pos: RP
+Num: 43
+Rat: 80,83,77,20,78,83
+
+Player: Derek Holland
+Pos: SP
+Num: 45
+Rat: 66,70,59,66,66,67
+
+Player: Brett Cecil
+Pos: RP
+Num: 27
+Rat: 78,82,92,15,66,64
+
+Player: Brandon Kintzler
+Pos: RP
+Num: 27
+Rat: 72,82,63,18,67,74
+
+Player: Ian Krol
+Pos: RP
+Num: 46
+Rat: 78,81,88,16,68,76
+
+Player: Zach Putnam
+Pos: RP
+Num: 57
+Rat: 79,78,89,19,73,79
+
+Player: Carlos Rodon
+Pos: SP
+Num: 55
+Rat: 76,77,85,80,70,70
+
+Player: David Robertson
+Pos: RP
+Num: 30
+Rat: 80,74,94,18,78,75
+
+Player: Kirby Yates
+Pos: RP
+Num: 39
+Rat: 74,71,89,18,67,67
+
+Player: Michael Pineda
+Pos: SP
+Num: 35
+Rat: 78,78,94,74,70,67
+
+Player: Tyler Thornburg
+Pos: RP
+Num: 37
+Rat: 94,88,100,18,100,83
+
+Player: Ubaldo Jimenez
+Pos: SP
+Num: 31
+Rat: 70,68,74,68,68,71
+
+Player: Yovani Gallardo
+Pos: SP
+Num: 49
+Rat: 66,66,64,70,66,67
+
+Player: Matt Barnes
+Pos: RP
+Num: 68
+Rat: 76,73,85,19,72,74
+
+Player: Drew Pomeranz
+Pos: SP
+Num: 31
+Rat: 85,80,92,75,87,75
+
+Player: Joe Kelly
+Pos: RP
+Num: 56
+Rat: 71,67,89,30,62,64
+
+Player: Tommy Layne
+Pos: RP
+Num: 39
+Rat: 74,72,72,15,77,78
+
+Player: Aroldis Chapman
+Pos: RP
+Num: 54
+Rat: 98,96,100,18,100,98
+
+Player: Pedro Strop
+Pos: RP
+Num: 46
+Rat: 93,87,99,17,100,82
+
+Player: Hector Rondon
+Pos: RP
+Num: 56
+Rat: 84,90,90,18,79,68
+
+Player: Danny Salazar
+Pos: SP
+Num: 31
+Rat: 81,76,95,74,79,74
+
+Player: Andrew Miller
+Pos: RP
+Num: 24
+Rat: 99,100,100,19,100,86
+
+Player: Adam Ottavino
+Pos: RP
+Num: 0
+Rat: 92,88,99,16,94,78
+
+Player: Tyler Chatwood
+Pos: SP
+Num: 32
+Rat: 73,72,69,80,75,76
+
+Player: Jon Gray
+Pos: SP
+Num: 55
+Rat: 79,77,89,81,76,74
+
+Player: Bruce Rondon
+Pos: RP
+Num: 43
+Rat: 89,84,96,18,96,73
+
+Player: Mike Fiers
+Pos: SP
+Num: 54
+Rat: 72,77,71,74,67,67
+
+Player: Matt Strahm
+Pos: RP
+Num: 64
+Rat: 95,87,100,19,100,100
+
+Player: Brandon McCarthy
+Pos: RP
+Num: 38
+Rat: 77,68,83,54,82,79
+
+Player: Sean Gilmartin
+Pos: RP
+Num: 36
+Rat: 56,62,52,21,54,53
+
+Player: Antonio Bastardo
+Pos: RP
+Num: 59
+Rat: 76,72,86,18,76,65
+
+Player: Sean Manaea
+Pos: SP
+Num: 55
+Rat: 77,80,76,78,76,71
+
+Player: Andrew Triggs
+Pos: SP
+Num: 60
+Rat: 76,79,79,34,70,72
+
+Player: Paul Clemens
+Pos: RP
+Num: 47
+Rat: 68,70,67,54,69,62
+
+Player: Brad Hand
+Pos: RP
+Num: 52
+Rat: 90,82,100,19,94,81
+
+Player: Matt Andriese
+Pos: SP
+Num: 35
+Rat: 75,81,74,62,70,70
+
+Player: Xavier Cedeno
+Pos: RP
+Num: 31
+Rat: 79,78,83,16,77,81
+
+Player: Drew Smyly
+Pos: SP
+Num: 33
+Rat: 75,78,80,79,72,65
+
+Player: Shawn Tolleson
+Pos: RP
+Num: 37
+Rat: 60,67,63,18,50,54
+
+Player: Roberto Osuna
+Pos: RP
+Num: 54
+Rat: 89,91,92,18,89,76
+
+Player: Marco Estrada
+Pos: SP
+Num: 25
+Rat: 84,79,82,83,93,75
+
+Player: Aaron Sanchez
+Pos: SP
+Num: 41
+Rat: 82,80,78,87,86,83
+
+Player: Taylor Rogers
+Pos: RP
+Num: 55
+Rat: 76,79,84,19,69,70
+
+Player: Adam Morgan
+Pos: RP
+Num: 39
+Rat: 67,73,70,67,60,59
+
+Player: Jeanmar Gomez
+Pos: RP
+Num: 46
+Rat: 66,70,62,18,62,71
+
+Player: Jose Urena
+Pos: RP
+Num: 62
+Rat: 65,68,61,41,64,65
+
+Player: Matt Garza
+Pos: SP
+Num: 22
+Rat: 67,70,63,72,65,70
+
+Player: Chase Anderson
+Pos: RP
+Num: 57
+Rat: 71,73,71,66,70,64
+
+Player: Silvino Bracho
+Pos: RP
+Num: 61
+Rat: 58,63,56,17,56,49
+
+Player: Shelby Miller
+Pos: SP
+Num: 26
+Rat: 62,65,61,71,58,64
+
+Player: Dylan Bundy
+Pos: SP
+Num: 37
+Rat: 74,74,80,42,72,67
+
+Player: Rick Porcello
+Pos: SP
+Num: 22
+Rat: 84,91,78,98,84,79
+
+Player: Carl Edwards Jr.
+Pos: RP
+Num: 6
+Rat: 93,85,100,18,100,79
+
+Player: Adam Warren
+Pos: RP
+Num: 43
+Rat: 70,70,68,19,73,65
+
+Player: Wandy Peralta
+Pos: RP
+Num: 53
+Rat: 49,51,52,15,44,53
+
+Player: Cody Reed
+Pos: SP
+Num: 44
+Rat: 61,65,70,64,53,52
+
+Player: Carlos Carrasco
+Pos: SP
+Num: 59
+Rat: 82,84,87,81,79,71
+
+Player: Trevor Bauer
+Pos: SP
+Num: 47
+Rat: 76,75,77,76,76,75
+
+Player: Tyler Anderson
+Pos: SP
+Num: 44
+Rat: 75,80,76,82,69,73
+
+Player: Jordan Zimmermann
+Pos: SP
+Num: 27
+Rat: 66,73,59,75,65,66
+
+Player: Pat Neshek
+Pos: RP
+Num: 37
+Rat: 84,85,78,16,91,72
+
+Player: Wade Davis
+Pos: RP
+Num: 17
+Rat: 89,84,93,18,88,97
+
+Player: Dillon Gee
+Pos: RP
+Num: 53
+Rat: 67,72,65,52,64,63
+
+Player: Chris Young
+Pos: RP
+Num: 32
+Rat: 67,67,82,37,61,52
+
+Player: Peter Moylan
+Pos: RP
+Num: 47
+Rat: 72,74,68,17,71,75
+
+Player: Julio Urias
+Pos: SP
+Num: 7
+Rat: 77,75,89,58,68,78
+
+Player: Rich Hill
+Pos: SP
+Num: 44
+Rat: 95,89,100,75,98,95
+
+Player: Jesse Chavez
+Pos: SP
+Num: 58
+Rat: 72,76,77,19,66,63
+
+Player: Gio Gonzalez
+Pos: SP
+Num: 47
+Rat: 76,76,81,75,72,74
+
+Player: Noah Syndergaard
+Pos: SP
+Num: 34
+Rat: 89,88,100,80,81,85
+
+Player: Hansel Robles
+Pos: RP
+Num: 47
+Rat: 79,75,89,20,76,75
+
+Player: Tony Watson
+Pos: RP
+Num: 44
+Rat: 80,81,76,18,84,70
+
+Player: Jameson Taillon
+Pos: SP
+Num: 50
+Rat: 78,85,74,79,74,72
+
+Player: Luis Perdomo
+Pos: SP
+Num: 61
+Rat: 65,70,64,59,60,64
+
+Player: Dan Altavilla
+Pos: RP
+Num: 53
+Rat: 91,100,86,16,82,96
+
+Player: Joaquin Benoit
+Pos: RP
+Num: 53
+Rat: 82,76,88,18,86,77
+
+Player: George Kontos
+Pos: RP
+Num: 70
+Rat: 77,76,66,17,84,84
+
+Player: Matt Moore
+Pos: SP
+Num: 45
+Rat: 77,76,79,82,77,74
+
+Player: Jonathan Broxton
+Pos: RP
+Num: 30
+Rat: 75,74,77,17,77,71
+
+Player: Adam Wainwright
+Pos: SP
+Num: 50
+Rat: 71,75,72,84,66,72
+
+Player: Seung Hwan Oh
+Pos: RP
+Num: 26
+Rat: 97,95,100,19,99,90
+
+Player: Jeremy Jeffress
+Pos: RP
+Num: 23
+Rat: 76,79,70,18,74,86
+
+Player: Martin Perez
+Pos: SP
+Num: 33
+Rat: 66,69,55,82,70,76
+
+Player: Michael Tonkin
+Pos: RP
+Num: 59
+Rat: 73,74,86,19,64,61
+
+Player: Vince Velasquez
+Pos: SP
+Num: 28
+Rat: 79,78,93,76,71,67
+
+Player: David Phelps
+Pos: RP
+Num: 35
+Rat: 91,83,100,22,95,86
+
+Player: Craig Breslow
+Pos: RP
+Num: 
+Rat: 56,65,49,17,49,66
+
+Player: Adam Conley
+Pos: SP
+Num: 61
+Rat: 76,73,80,72,75,75
+
+Player: Anthony Swarzak
+Pos: RP
+Num: 41
+Rat: 72,78,76,20,69,50
+
+Player: Luis Cessa
+Pos: RP
+Num: 85
+Rat: 71,79,61,56,74,60
+
+Player: Tyler Cravy
+Pos: RP
+Num: 45
+Rat: 76,75,69,23,84,73
+
+Player: Jose Alvarez
+Pos: RP
+Num: 48
+Rat: 72,76,76,17,62,75
+
+Player: Fernando Salas
+Pos: RP
+Num: 59
+Rat: 76,80,74,18,78,66
+
+Player: Matt Shoemaker
+Pos: SP
+Num: 52
+Rat: 77,83,78,83,71,73
+
+Player: Josh Collmenter
+Pos: RP
+Num: 55
+Rat: 72,73,69,33,74,65
+
+Player: Robbie Ray
+Pos: SP
+Num: 38
+Rat: 79,75,98,74,70,69
+
+Player: Daniel Hudson
+Pos: RP
+Num: 41
+Rat: 71,71,76,17,66,69
+
+Player: Zach Britton
+Pos: RP
+Num: 53
+Rat: 100,100,100,18,100,100
+
+Player: Darren O'Day
+Pos: RP
+Num: 56
+Rat: 80,76,92,17,80,62
+
+Player: Steven Wright
+Pos: SP
+Num: 35
+Rat: 78,77,75,97,81,82
+
+Player: Craig Kimbrel
+Pos: RP
+Num: 46
+Rat: 91,79,100,17,100,84
+
+Player: Jason Hammel
+Pos: SP
+Num: 39
+Rat: 77,78,77,75,79,70
+
+Player: Cody Allen
+Pos: RP
+Num: 37
+Rat: 92,84,100,18,100,78
+
+Player: Dan Otero
+Pos: RP
+Num: 61
+Rat: 91,97,81,20,92,94
+
+Player: Shawn Armstrong
+Pos: RP
+Num: 51
+Rat: 69,71,62,18,72,72
+
+Player: Francisco Rodriguez
+Pos: RP
+Num: 57
+Rat: 79,78,77,18,84,75
+
+Player: Anibal Sanchez
+Pos: SP
+Num: 19
+Rat: 69,71,74,59,64,62
+
+Player: Ken Giles
+Pos: RP
+Num: 53
+Rat: 82,79,100,18,76,70
+
+Player: Joe Blanton
+Pos: RP
+Num: 55
+Rat: 88,84,87,19,95,82
+
+Player: J.P. Howell
+Pos: RP
+Num: 56
+Rat: 71,74,73,16,64,73
+
+Player: Kenta Maeda
+Pos: SP
+Num: 18
+Rat: 83,82,87,74,83,77
+
+Player: Luis Avilan
+Pos: RP
+Num: 43
+Rat: 90,77,100,15,95,95
+
+Player: Kenley Jansen
+Pos: RP
+Num: 74
+Rat: 99,100,100,18,100,92
+
+Player: Mark Melancon
+Pos: RP
+Num: 43
+Rat: 93,96,86,18,94,93
+
+Player: Oliver Perez
+Pos: RP
+Num: 46
+Rat: 74,70,86,14,69,69
+
+Player: Blake Treinen
+Pos: RP
+Num: 45
+Rat: 82,78,84,17,84,82
+
+Player: Koda Glover
+Pos: RP
+Num: 32
+Rat: 72,72,65,18,82,63
+
+Player: Jerry Blevins
+Pos: RP
+Num: 39
+Rat: 84,81,97,14,79,77
+
+Player: Jacob deGrom
+Pos: SP
+Num: 48
+Rat: 80,83,85,86,75,77
+
+Player: Ryan Madson
+Pos: RP
+Num: 44
+Rat: 72,75,68,18,71,72
+
+Player: John Axford
+Pos: RP
+Num: 61
+Rat: 72,71,76,18,70,74
+
+Player: Chad Kuhl
+Pos: SP
+Num: 39
+Rat: 70,74,67,68,68,70
+
+Player: James Paxton
+Pos: SP
+Num: 65
+Rat: 77,82,82,82,68,77
+
+Player: Steven Okert
+Pos: RP
+Num: 48
+Rat: 73,77,78,17,66,66
+
+Player: Will Smith
+Pos: RP
+Num: 13
+Rat: 83,77,92,16,83,77
+
+Player: Hunter Strickland
+Pos: RP
+Num: 60
+Rat: 81,80,80,16,82,82
+
+Player: Johnny Cueto
+Pos: SP
+Num: 47
+Rat: 84,87,83,100,82,85
+
+Player: Trevor Rosenthal
+Pos: RP
+Num: 44
+Rat: 74,66,100,17,61,73
+
+Player: Mike Leake
+Pos: SP
+Num: 8
+Rat: 71,79,66,80,66,71
+
+Player: A.J. Griffin
+Pos: SP
+Num: 64
+Rat: 71,72,75,70,71,59
+
+Player: Keone Kela
+Pos: RP
+Num: 50
+Rat: 75,70,94,18,71,60
+
+Player: Joe Biagini
+Pos: RP
+Num: 31
+Rat: 77,79,79,19,72,81
+
+Player: Ryan Pressly
+Pos: RP
+Num: 57
+Rat: 74,76,76,19,69,72
+
+Player: Kyle Gibson
+Pos: SP
+Num: 44
+Rat: 66,69,64,82,63,68
+
+Player: Edubray Ramos
+Pos: RP
+Num: 61
+Rat: 76,79,80,18,72,69
+
+Player: Jose Quintana
+Pos: SP
+Num: 62
+Rat: 80,83,79,89,79,77
+
+Player: Tom Koehler
+Pos: SP
+Num: 34
+Rat: 72,71,74,72,72,72
+
+Player: Wei-Yin Chen
+Pos: SP
+Num: 54
+Rat: 72,79,70,76,67,63
+
+Player: Dustin McGowan
+Pos: RP
+Num: 33
+Rat: 82,76,81,21,90,77
+
+Player: Tyler Skaggs
+Pos: SP
+Num: 45
+Rat: 72,71,80,67,67,70
+
+Player: Enrique Burgos
+Pos: RP
+Num: 36
+Rat: 70,67,79,18,67,65
+
+Player: Mychal Givens
+Pos: RP
+Num: 60
+Rat: 85,77,100,20,83,79
+
+Player: Koji Uehara
+Pos: RP
+Num: 19
+Rat: 89,88,100,17,88,66
+
+Player: Mike Montgomery
+Pos: RP
+Num: 38
+Rat: 83,80,83,30,86,81
+
+Player: Trevor Cahill
+Pos: SP
+Num: 53
+Rat: 83,75,85,22,91,79
+
+Player: Jon Lester
+Pos: SP
+Num: 34
+Rat: 89,88,88,90,93,83
+
+Player: Justin Grimm
+Pos: RP
+Num: 52
+Rat: 80,75,94,16,75,73
+
+Player: Dan Straily
+Pos: SP
+Num: 58
+Rat: 79,77,76,76,86,70
+
+Player: Michael Lorenzen
+Pos: RP
+Num: 21
+Rat: 81,83,81,23,81,77
+
+Player: Corey Kluber
+Pos: SP
+Num: 28
+Rat: 88,86,91,98,89,80
+
+Player: Kyle Ryan
+Pos: RP
+Num: 56
+Rat: 74,78,62,18,78,83
+
+Player: Tony Sipp
+Pos: RP
+Num: 29
+Rat: 65,69,73,15,59,53
+
+Player: Clayton Kershaw
+Pos: SP
+Num: 22
+Rat: 100,100,100,100,100,95
+
+Player: Chris Hatcher
+Pos: RP
+Num: 41
+Rat: 70,68,80,19,68,58
+
+Player: Scott Kazmir
+Pos: SP
+Num: 29
+Rat: 75,74,82,71,73,67
+
+Player: Felipe Rivero
+Pos: RP
+Num: 73
+Rat: 81,76,93,18,78,76
+
+Player: Shawn Kelley
+Pos: RP
+Num: 27
+Rat: 93,94,100,17,93,70
+
+Player: Marc Rzepczynski
+Pos: RP
+Num: 23
+Rat: 76,71,82,15,72,86
+
+Player: Ivan Nova
+Pos: SP
+Num: 46
+Rat: 74,82,71,75,69,68
+
+Player: Gerrit Cole
+Pos: SP
+Num: 45
+Rat: 72,75,74,77,65,78
+
+Player: Francisco Liriano
+Pos: SP
+Num: 45
+Rat: 75,71,85,71,74,68
+
+Player: Jared Hughes
+Pos: RP
+Num: 48
+Rat: 67,71,59,17,67,72
+
+Player: Andrew Cashner
+Pos: SP
+Num: 48
+Rat: 68,69,72,64,66,65
+
+Player: Fernando Rodney
+Pos: RP
+Num: 56
+Rat: 80,73,90,18,79,79
+
+Player: Taijuan Walker
+Pos: SP
+Num: 44
+Rat: 75,78,76,75,75,64
+
+Player: Jeff Samardzija
+Pos: SP
+Num: 29
+Rat: 77,80,75,88,77,74
+
+Player: Santiago Casilla
+Pos: RP
+Num: 46
+Rat: 80,79,89,17,76,69
+
+Player: Matt Cain
+Pos: RP
+Num: 18
+Rat: 65,69,68,58,60,61
+
+Player: Kevin Siegrist
+Pos: RP
+Num: 46
+Rat: 85,80,89,17,94,70
+
+Player: Chris Archer
+Pos: SP
+Num: 22
+Rat: 83,80,95,83,79,71
+
+Player: Danny Farquhar
+Pos: RP
+Num: 43
+Rat: 80,77,99,18,74,61
+
+Player: Alex Claudio
+Pos: RP
+Num: 58
+Rat: 73,80,64,22,69,82
+
+Player: Jason Grilli
+Pos: RP
+Num: 37
+Rat: 83,74,100,17,85,65
+
+Player: Trevor May
+Pos: SP
+Num: 65
+Rat: 80,75,100,18,74,62
+
+Player: Joely Rodriguez
+Pos: RP
+Num: 63
+Rat: 71,72,64,16,71,85
+
+Player: Jeremy Hellickson
+Pos: SP
+Num: 58
+Rat: 78,81,74,82,78,73
+
+Player: Hector Santiago
+Pos: SP
+Num: 66
+Rat: 72,71,71,75,76,66
+
+Player: Brad Ziegler
+Pos: RP
+Num: 29
+Rat: 78,78,79,18,74,87
+
+Player: Patrick Corbin
+Pos: SP
+Num: 46
+Rat: 68,69,72,59,65,66
+
+Player: Mike Wright
+Pos: SP
+Num: 59
+Rat: 64,68,59,56,63,62
+
+Player: Junichi Tazawa
+Pos: RP
+Num: 36
+Rat: 76,78,85,17,72,63
+
+Player: Travis Wood
+Pos: SP
+Num: 37
+Rat: 79,76,71,16,91,72
+
+Player: Tony Cingrani
+Pos: RP
+Num: 52
+Rat: 70,67,68,18,75,75
+
+Player: Brandon Finnegan
+Pos: SP
+Num: 29
+Rat: 75,72,75,77,80,69
+
+Player: Bryan Shaw
+Pos: RP
+Num: 27
+Rat: 79,76,85,17,79,73
+
+Player: Chad Qualls
+Pos: RP
+Num: 50
+Rat: 62,69,59,15,57,60
+
+Player: Dallas Keuchel
+Pos: SP
+Num: 60
+Rat: 74,77,75,90,72,71
+
+Player: Chris Devenski
+Pos: RP
+Num: 47
+Rat: 91,93,87,33,93,91
+
+Player: Kelvin Herrera
+Pos: RP
+Num: 40
+Rat: 91,93,97,18,86,80
+
+Player: Ian Kennedy
+Pos: SP
+Num: 31
+Rat: 79,79,82,80,81,70
+
+Player: Grant Dayton
+Pos: RP
+Num: 75
+Rat: 97,97,100,19,100,76
+
+Player: Joe Ross
+Pos: SP
+Num: 41
+Rat: 76,79,78,75,70,76
+
+Player: Yusmeiro Petit
+Pos: RP
+Num: 52
+Rat: 69,76,68,26,66,61
+
+Player: Matt Belisle
+Pos: RP
+Num: 18
+Rat: 81,89,71,20,78,86
+
+Player: Sean Doolittle
+Pos: RP
+Num: 62
+Rat: 82,86,90,17,77,66
+
+Player: Jarred Cosart
+Pos: RP
+Num: 55
+Rat: 62,60,58,60,64,73
+
+Player: Sergio Romo
+Pos: RP
+Num: 54
+Rat: 81,85,87,16,76,66
+
+Player: Michael Wacha
+Pos: SP
+Num: 52
+Rat: 69,72,71,69,64,70
+
+Player: Alex Colome
+Pos: RP
+Num: 37
+Rat: 92,90,100,18,91,81
+
+Player: Yu Darvish
+Pos: SP
+Num: 11
+Rat: 88,84,100,80,86,75
+
+Player: Matt Bush
+Pos: RP
+Num: 51
+Rat: 89,88,85,19,93,86
+
+Player: Cole Hamels
+Pos: SP
+Num: 35
+Rat: 80,78,87,85,79,76
+
+Player: Aaron Nola
+Pos: SP
+Num: 27
+Rat: 78,79,87,75,69,74
+
+Player: Mike Foltynewicz
+Pos: SP
+Num: 26
+Rat: 74,77,77,76,70,68
+
+Player: Arodys Vizcaino
+Pos: RP
+Num: 38
+Rat: 77,68,95,17,72,75
+
+Player: Dellin Betances
+Pos: RP
+Num: 68
+Rat: 90,84,100,18,90,83
+
+Player: CC Sabathia
+Pos: SP
+Num: 52
+Rat: 75,75,76,81,76,74
+
+Player: Luis Severino
+Pos: SP
+Num: 40
+Rat: 69,71,74,45,64,63
+
+Player: Junior Guerra
+Pos: SP
+Num: 41
+Rat: 82,80,76,82,88,81
+
+Player: Corey Knebel
+Pos: RP
+Num: 46
+Rat: 74,70,87,17,68,70
+
+Player: Jimmy Nelson
+Pos: SP
+Num: 52
+Rat: 70,69,70,76,70,70
+
+Player: Ricky Nolasco
+Pos: SP
+Num: 47
+Rat: 73,78,68,86,71,71
+
+Player: Jhoulys Chacin
+Pos: SP
+Num: 49
+Rat: 71,71,72,60,68,73
+
+Player: Zack Godley
+Pos: RP
+Num: 52
+Rat: 65,69,66,39,61,60
+
+Player: Randall Delgado
+Pos: RP
+Num: 48
+Rat: 70,69,75,18,68,70
+
+Player: Zack Greinke
+Pos: SP
+Num: 21
+Rat: 74,78,74,85,71,69
+
+Player: Kevin Gausman
+Pos: SP
+Num: 39
+Rat: 78,81,84,81,73,70
+
+Player: Kyle Hendricks
+Pos: SP
+Num: 28
+Rat: 90,90,85,87,95,87
+
+Player: Jake Arrieta
+Pos: SP
+Num: 49
+Rat: 88,81,85,89,98,85
+
+Player: Tim Adleman
+Pos: RP
+Num: 46
+Rat: 70,75,63,72,72,63
+
+Player: Blake Wood
+Pos: RP
+Num: 36
+Rat: 75,72,85,19,72,70
+
+Player: Josh Tomlin
+Pos: SP
+Num: 43
+Rat: 73,85,64,79,70,63
+
+Player: Jason Motte
+Pos: RP
+Num: 30
+Rat: 67,71,77,16,60,52
+
+Player: Jordan Lyles
+Pos: RP
+Num: 24
+Rat: 60,62,52,23,60,71
+
+Player: Chad Bettis
+Pos: SP
+Num: 35
+Rat: 70,73,68,81,68,71
+
+Player: Mark Lowe
+Pos: RP
+Num: 21
+Rat: 65,67,75,17,59,53
+
+Player: Justin Wilson
+Pos: RP
+Num: 38
+Rat: 77,78,87,17,68,71
+
+Player: Alex Wilson
+Pos: RP
+Num: 30
+Rat: 73,77,65,20,74,78
+
+Player: Scott Feldman
+Pos: SP
+Num: 46
+Rat: 69,75,66,29,65,68
+
+Player: Jandel Gustave
+Pos: RP
+Num: 61
+Rat: 76,80,80,19,72,66
+
+Player: Will Harris
+Pos: RP
+Num: 36
+Rat: 88,88,91,18,85,88
+
+Player: Collin McHugh
+Pos: SP
+Num: 31
+Rat: 75,77,82,78,68,69
+
+Player: Edinson Volquez
+Pos: SP
+Num: 36
+Rat: 67,69,66,76,65,70
+
+Player: Danny Duffy
+Pos: SP
+Num: 41
+Rat: 83,85,89,60,79,71
+
+Player: Casey Fien
+Pos: RP
+Num: 50
+Rat: 67,73,71,18,61,50
+
+Player: Stephen Strasburg
+Pos: SP
+Num: 37
+Rat: 88,84,100,83,86,77
+
+Player: Matt Harvey
+Pos: SP
+Num: 33
+Rat: 69,74,70,74,61,71
+
+Player: Addison Reed
+Pos: RP
+Num: 43
+Rat: 94,96,99,18,90,89
+
+Player: Kendall Graveman
+Pos: SP
+Num: 49
+Rat: 69,75,59,86,70,73
+
+Player: Ryan Dull
+Pos: RP
+Num: 66
+Rat: 91,91,86,19,99,75
+
+Player: Neftali Feliz
+Pos: RP
+Num: 30
+Rat: 82,78,90,17,85,65
+
+Player: Juan Nicasio
+Pos: RP
+Num: 12
+Rat: 78,76,92,33,71,69
+
+Player: Ryan Buchter
+Pos: RP
+Num: 40
+Rat: 91,80,98,18,100,84
+
+Player: Nick Vincent
+Pos: RP
+Num: 50
+Rat: 80,82,86,18,77,65
+
+Player: Madison Bumgarner
+Pos: SP
+Num: 40
+Rat: 90,89,96,99,91,80
+
+Player: Derek Law
+Pos: RP
+Num: 64
+Rat: 87,92,82,17,86,85
+
+Player: Miguel Socolovich
+Pos: RP
+Num: 63
+Rat: 91,95,78,20,100,84
+
+Player: Matt Bowman
+Pos: RP
+Num: 67
+Rat: 76,77,69,20,79,80
+
+Player: Carlos Martinez
+Pos: SP
+Num: 18
+Rat: 81,79,81,86,83,84
+
+Player: Erasmo Ramirez
+Pos: RP
+Num: 30
+Rat: 70,75,65,23,70,67
+
+Player: Marcus Stroman
+Pos: SP
+Num: 6
+Rat: 74,77,73,87,72,75
+
+Player: Aaron Loup
+Pos: RP
+Num: 62
+Rat: 68,74,77,15,58,59
+
+Player: J.A. Happ
+Pos: SP
+Num: 33
+Rat: 80,80,77,83,83,77
+
+Player: R.A. Dickey
+Pos: SP
+Num: 43
+Rat: 71,72,68,77,73,67
+
+Player: Ervin Santana
+Pos: SP
+Num: 54
+Rat: 78,79,76,86,78,77
+
+Player: Hector Neris
+Pos: RP
+Num: 50
+Rat: 89,83,100,18,92,78
+
+Player: Julio Teheran
+Pos: RP
+Num: 49
+Rat: 84,86,80,87,86,77
+
+Player: Nate Jones
+Pos: RP
+Num: 65
+Rat: 93,93,95,18,97,81
+
+Player: Chris Sale
+Pos: SP
+Num: 49
+Rat: 86,88,89,100,85,77
+
+Player: Kyle Barraclough
+Pos: RP
+Num: 46
+Rat: 92,78,100,18,100,96
+
+Player: Mike Dunn
+Pos: RP
+Num: 40
+Rat: 73,78,76,16,67,69
+
+Player: Chad Green
+Pos: SP
+Num: 
+Rat: 73,75,86,51,65,55
+
+Player: Joe Smith
+Pos: RP
+Num: 30
+Rat: 72,75,69,18,73,68
+
+Player: Mike Morin
+Pos: RP
+Num: 64
+Rat: 74,77,73,17,71,71
+
+Player: Jered Weaver
+Pos: SP
+Num: 36
+Rat: 64,71,57,80,64,61
+
+Player: Andrew Chafin
+Pos: RP
+Num: 40
+Rat: 71,68,86,15,63,73
+
+Player: Tyler Clippard
+Pos: RP
+Num: 29
+Rat: 80,76,91,17,78,68
+
+Player: Donnie Hart
+Pos: RP
+Num: 58
+Rat: 96,98,86,16,100,100
+
+Player: Robbie Ross Jr.
+Pos: RP
+Num: 28
+Rat: 80,76,83,18,79,85
+
+Player: Clayton Richard
+Pos: SP
+Num: 27
+Rat: 66,68,60,28,63,78
+
+Player: Zach McAllister
+Pos: RP
+Num: 34
+Rat: 75,73,84,18,71,70
+
+Player: Chris Rusin
+Pos: RP
+Num: 52
+Rat: 74,77,72,40,71,78
+
+Player: Jake McGee
+Pos: RP
+Num: 51
+Rat: 65,70,69,16,59,58
+
+Player: Boone Logan
+Pos: RP
+Num: 48
+Rat: 89,79,94,15,100,77
+
+Player: Daniel Norris
+Pos: SP
+Num: 44
+Rat: 75,77,84,67,68,68
+
+Player: Michael Fulmer
+Pos: SP
+Num: 32
+Rat: 81,82,77,85,83,79
+
+Player: Michael Feliz
+Pos: RP
+Num: 45
+Rat: 84,80,100,22,79,68
+
+Player: Pedro Baez
+Pos: RP
+Num: 52
+Rat: 87,84,91,18,93,72
+
+Player: Tanner Roark
+Pos: SP
+Num: 57
+Rat: 81,80,78,84,85,84
+
+Player: Logan Verrett
+Pos: RP
+Num: 35
+Rat: 64,66,64,37,64,61
+
+Player: Bartolo Colon
+Pos: SP
+Num: 40
+Rat: 74,83,66,76,72,73
+
+Player: Josh Edgin
+Pos: RP
+Num: 66
+Rat: 66,65,76,14,60,66
+
+Player: Steven Matz
+Pos: RP
+Num: 32
+Rat: 80,83,84,82,74,76
+
+Player: Jeff Locke
+Pos: RP
+Num: 49
+Rat: 63,67,56,60,62,66
+
+Player: Wade LeBlanc
+Pos: RP
+Num: 38
+Rat: 75,83,71,45,73,60
+
+Player: Hisashi Iwakuma
+Pos: SP
+Num: 18
+Rat: 72,78,69,82,68,70
+
+Player: Drew Storen
+Pos: RP
+Num: 45
+Rat: 71,75,74,17,65,65
+
+Player: Vidal Nuno
+Pos: RP
+Num: 38
+Rat: 72,81,74,19,64,62
+
+Player: Jaime Garcia
+Pos: SP
+Num: 54
+Rat: 72,74,75,75,70,68
+
+Player: Enny Romero
+Pos: RP
+Num: 45
+Rat: 71,66,82,17,70,64
+
+Player: Blake Snell
+Pos: SP
+Num: 4
+Rat: 76,71,89,64,69,80
+
+Player: Jake Odorizzi
+Pos: SP
+Num: 23
+Rat: 78,80,79,77,79,70
+
+Player: Sam Dyson
+Pos: RP
+Num: 47
+Rat: 77,79,74,18,77,81
+
+Player: Jerad Eickhoff
+Pos: SP
+Num: 48
+Rat: 78,83,77,81,76,70
+
+Player: Mauricio Cabrera
+Pos: RP
+Num: 62
+Rat: 77,73,74,17,79,90
+
+Player: Jim Johnson
+Pos: RP
+Num: 53
+Rat: 82,81,87,18,78,83
+
+Player: Dan Jennings
+Pos: RP
+Num: 43
+Rat: 76,75,74,18,74,89
+
+Player: Miguel Gonzalez
+Pos: SP
+Num: 58
+Rat: 74,77,67,76,74,78
+
+Player: A.J. Ramos
+Pos: RP
+Num: 44
+Rat: 83,75,93,18,82,92
+
+Player: Masahiro Tanaka
+Pos: SP
+Num: 19
+Rat: 82,87,77,88,82,78
+
+Player: Wily Peralta
+Pos: SP
+Num: 38
+Rat: 66,71,66,75,61,65
+
+Player: Carlos Torres
+Pos: RP
+Num: 59
+Rat: 82,80,83,20,85,77
+
+Player: Brent Suter
+Pos: RP
+Num: 35
+Rat: 66,75,63,24,60,65
+
+Player: Zach Davies
+Pos: SP
+Num: 27
+Rat: 75,80,74,79,72,72
+
+Player: Jharel Cotton
+Pos: SP
+Num: 63
+Rat: 75,75,75,75,75,75
+
+Player: Raisel Iglesies
+Pos: RP
+Num: 62
+Rat: 75,75,75,75,75,75
+
+Player: Erik Gonzalez
+Pos: SS
+Num: 70
+Rat: 75,75,75,75,75,75
+
+Player: Mike Bolsinger
+Pos: RP
+Num: 27
+Rat: 75,75,75,75,75,75
+
+Player: Emilio Bonifacio
+Pos: CF
+Num: 29
+Rat: 75,75,75,75,75,75
+
+Player: Raul Alcantara
+Pos: RP
+Num: 85
+Rat: 75,75,75,75,75,75
+
+Player: Stuart Turner
+Pos: C
+Num: 86
+Rat: 75,75,75,75,75,75
+
+Player: Dixon Machado
+Pos: SS
+Num: 73
+Rat: 75,75,75,75,75,75
+
+Player: Peter O'Brien
+Pos: LF
+Num: 5
+Rat: 75,75,75,75,75,75
+
+Player: Nori Aoki
+Pos: LF
+Num: 40
+Rat: 75,75,75,75,75,75
+
+Player: Michael Brantley
+Pos: LF
+Num: 48
+Rat: 75,75,75,75,75,75
+
+Player: Lance Lynn
+Pos: SP
+Num: 12
+Rat: 75,75,75,75,75,75
+
+Player: Austin Hedges
+Pos: C
+Num: 87
+Rat: 75,75,75,75,75,75
+
+Player: Robert Gsellman
+Pos: SP
+Num: 25
+Rat: 75,75,75,75,75,75
+
+Player: JC Ramirez
+Pos: RP
+Num: 42
+Rat: 75,75,75,75,75,75
+
+Player: Charlie Tilson
+Pos: CF
+Num: 26
+Rat: 75,75,75,75,75,75
+
+Player: Jeff Hoffman
+Num: 99
+Pos: SP
+Rat: 75,75,75,75,75,75
+
+Player: Steven Souza
+Pos: RF
+Num: 15
+Rat: 75,75,75,75,75,75
+
+Player: Hunter Renfroe
+Pos: RF
+Num: 95
+Rat: 75,75,75,75,75,75
+
+Player: Alen Hanson
+Pos: 2B
+Num: 73
+Rat: 75,75,75,75,75,75
+
+Player: Cory Spangenberg
+Pos: 2B
+Num: 25
+Rat: 75,75,75,75,75,75
+
+Player: Alex Cobb
+Pos: SP
+Num: 92
+Rat: 75,75,75,75,75,75
+
+Player: Aaron Judge
+Pos: RF
+Num: 93
+Rat: 75,75,75,75,75,75
+
+Player: Garrett Richards
+Pos: SP
+Num: 6
+Rat: 75,75,75,75,75,75
+
+Player: Tom Murphy
+Pos: C
+Num: 69
+Rat: 75,75,75,75,75,75
+
+Player: Ty Blach
+Pos: SP
+Num: 6
+Rat: 75,75,75,75,75,75
+
+Player: Damien Magnifico
+Pos: RP
+Num: 13
+Rat: 75,75,75,75,75,75
+
+Player: Manny Pina
+Pos: C
+Num: 60
+Rat: 75,75,75,75,75,75
+
+Player: Bryan Mitchell
+Pos: RP
+Num: 59
+Rat: 75,75,75,75,75,75
+
+Player: Jesus Aguilar
+Pos: 1B
+Num: 73
+Rat: 75,75,75,75,75,75
+
+Player: Dan Vogelbach
+Pos: 1B
+Num: 61
+Rat: 75,75,75,75,75,75
+
+Player: Josh Phegley
+Pos: C
+Num: 95
+Rat: 75,75,75,75,75,75
+
+Player: Mike Minor
+Pos: RP
+Num: 6
+Rat: 75,75,75,75,75,75
+
+Player: Justin Haley
+Pos: RP
+Num: 38
+Rat: 75,75,75,75,75,75
+
+Player: Pablo Sandoval
+Pos: 3B
+Num: 17
+Rat: 75,75,75,75,75,75
+
+Player: Drew Hutchison
+Pos: SP
+Num: 77
+Rat: 75,75,75,75,75,75
+
+Player: Chris Heston
+Pos: RP
+Num: 52
+Rat: 75,75,75,75,75,75
+
+Player: Josh Staumont
+Pos: RP
+Num: 26
+Rat: 75,75,75,75,75,75
+
+Player: Andre Ethier
+Pos: RF
+Num: 98
+Rat: 75,75,75,75,75,75
+
+Player: Sal Romano
+Pos: RP
+Num: 91
+Rat: 75,75,75,75,75,75
+
+Player: Devin Mesoraco
+Pos: C
+Num: 72
+Rat: 75,75,75,75,75,75
+
+Player: Mark Canha
+Pos: 1B
+Num: 97
+Rat: 75,75,75,75,75,75
+
+Player: Austin Barnes
+Pos: C
+Num: 19
+Rat: 75,75,75,75,75,75
+
+Player: Kyle Schwarber
+Pos: LF
+Num: 38
+Rat: 75,75,75,75,75,75
+
+Player: Paco Rodriguez
+Pos: RP
+Num: 91
+Rat: 75,75,75,75,75,75
+
+Player: Gorkys Hernandez
+Pos: CF
+Num: 34
+Rat: 75,75,75,75,75,75
+
+Player: Liam Hendricks
+Pos: RP
+Num: 78
+Rat: 75,75,75,75,75,75
+
+Player: Lance McCullers
+Pos: SP
+Num: 77
+Rat: 75,75,75,75,75,75
+
+Player: Luis Torrens
+Pos: C
+Num: 17
+Rat: 75,75,75,75,75,75
+
+Player: Nick Castellanos
+Pos: 3B
+Num: 35
+Rat: 75,75,75,75,75,75
+
+Player: Brock Stassi
+Pos: 1B
+Num: 45
+Rat: 75,75,75,75,75,75
+
+Player: Albert Almora
+Pos: CF
+Num: 28
+Rat: 75,75,75,75,75,75
+
+Player: Miguel Diaz
+Pos: RP
+Num: 57
+Rat: 75,75,75,75,75,75
+
+Player: Chris Denorfia
+Pos: LF
+Num: 11
+Rat: 75,75,75,75,75,75
+
+Player: Eric Thames
+Pos: RF
+Num: 19
+Rat: 75,75,75,75,75,75
+
+Player: Geovany Soto
+Pos: C
+Num: 26
+Rat: 75,75,75,75,75,75
+
+Player: Carter Capps
+Pos: RP
+Num: 83
+Rat: 75,75,75,75,75,75
+
+Player: Brett Anderson
+Pos: SP
+Num: 6
+Rat: 75,75,75,75,75,75
+
+Player: Greg Bird
+Pos: 1B
+Num: 48
+Rat: 75,75,75,75,75,75
+
+Player: Greg Holland
+Pos: RP
+Num: 20
+Rat: 75,75,75,75,75,75
+
+Player: Yan Gomes
+Pos: C
+Num: 27
+Rat: 75,75,75,75,75,75
+
+Player: Chase Whitley
+Pos: RP
+Num: 9
+Rat: 75,75,75,75,75,75
+
+Player: A.J. Pollock
+Pos: CF
+Num: 16
+Rat: 75,75,75,75,75,75
+
+Player: Hanser Alberto
+Pos: 2B
+Num: 38
+Rat: 75,75,75,75,75,75
+
+Player: Phil Hughes
+Pos: SP
+Num: 41
+Rat: 61,70,53,69,57,59
+
+Player: Jake Petricka
+Pos: RP
+Num: 38
+Rat: 75,75,75,75,75,75
+
+Player: Rafael Montero
+Pos: RP
+Num: 78
+Rat: 75,75,75,75,75,75
+
+Player: Matt Davidson
+Pos: 3B
+Num: 10
+Rat: 75,75,75,75,75,75
+
+Player: J.R. Murphy
+Pos: C
+Num: 72
+Rat: 75,75,75,75,75,75
+
+Player: Josh Rutledge
+Pos: SS
+Num: 77
+Rat: 75,75,75,75,75,75
+
+Player: Manuel Margot
+Pos: CF
+Num: 10
+Rat: 75,75,75,75,75,75
+
+Player: Jason Vargas
+Pos: SP
+Num: 8
+Rat: 75,75,75,75,75,75
+
+Player: Delino DeShields Jr.
+Pos: LF
+Num: 79
+Rat: 75,75,75,75,75,75
+
+Player: Charlie Morton
+Pos: SP
+Num: 63
+Rat: 75,75,75,75,75,75
+
+Player: Aneury Tavarez
+Pos: RF
+Num: 18
+Rat: 75,75,75,75,75,75
+
+Player: Arismendy Alcantara
+Pos: CF
+Num: 98
+Rat: 75,75,75,75,75,75
+
+Player: Yulieski Gurriel
+Pos: 1B
+Num: 80
+Rat: 75,75,75,75,75,75
+
+Player: Robert Stephenson
+Pos: SP
+Num: 76
+Rat: 75,75,75,75,75,75
+
+Player: Devon Travis
+Pos: 2B
+Num: 34
+Rat: 75,75,75,75,75,75
+
+end

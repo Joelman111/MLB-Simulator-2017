@@ -1,0 +1,21 @@
+NORM
+George Springer	CF
+Jose Altuve	2B
+Carlos Correa	SS
+Carlos Beltran	RF
+Brian McCann	C
+Alex Bregman	3B
+Josh Reddick	LF
+Yulieski Gurriel	1B
+Pitcher	SP
+
+WDH
+George Springer	CF
+Jose Altuve	2B
+Carlos Correa	SS
+Carlos Beltran	DH
+Brian McCann	C
+Alex Bregman	3B
+Josh Reddick	RF
+Yulieski Gurriel	1B
+Nori Aoki	LF

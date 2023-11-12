@@ -1,0 +1,21 @@
+NORM
+Denard Span	CF
+Brandon Belt	1B
+Buster Posey	C
+Hunter Pence	RF
+Brandon Crawford	SS
+Eduardo Nunez	3B
+Joe Panik	2B
+Jarrett Parker	LF
+Pitcher	SP
+
+WDH
+Denard Span	CF
+Brandon Belt	1B
+Buster Posey	C
+Hunter Pence	RF
+Brandon Crawford	SS
+Eduardo Nunez	3B
+Conor Gillaspie	DH
+Joe Panik	2B
+Jarrett Parker	LF

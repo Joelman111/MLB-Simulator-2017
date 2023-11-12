@@ -1,0 +1,21 @@
+NORM
+Dustin Pedroia	2B
+Andrew Benintendi	LF
+Xander Bogaerts	SS
+Mookie Betts	RF
+Hanley Ramirez	3B
+Jackie Bradley Jr.	CF
+Pablo Sandoval	1B
+Sandy Leon	C
+Pitcher	SP
+
+WDH
+Dustin Pedroia	2B
+Andrew Benintendi	LF
+Xander Bogaerts	SS
+Mookie Betts	RF
+Hanley Ramirez	DH
+Jackie Bradley Jr.	CF
+Pablo Sandoval	3B
+Mitch Moreland	1B
+Sandy Leon	C

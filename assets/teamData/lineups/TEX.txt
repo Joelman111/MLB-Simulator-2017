@@ -1,0 +1,21 @@
+NORM
+Carlos Gomez	CF
+Shin-Soo Choo	LF
+Adrian Beltre	3B
+Mike Napoli	1B
+Rougned Odor	2B
+Jonathan Lucroy	C
+Nomar Mazara	RF
+Elvis Andrus	SS
+Pitcher	SP
+
+WDH
+Carlos Gomez	CF
+Shin-Soo Choo	DH
+Adrian Beltre	3B
+Mike Napoli	1B
+Rougned Odor	2B
+Jonathan Lucroy	C
+Nomar Mazara	RF
+Elvis Andrus	SS
+Jurickson Profar	LF

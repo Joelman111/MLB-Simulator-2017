@@ -1,0 +1,21 @@
+NORM
+Brian Dozier	2B
+Jorge Polanco	SS
+Joe Mauer	1B
+Miguel Sano	3B
+Max Kepler	RF
+Jason Castro	C
+Byron Buxton	CF
+Eddie Rosario	LF
+Pitcher	SP
+
+WDH
+Brian Dozier	2B
+Jorge Polanco	SS
+Joe Mauer	1B
+Miguel Sano	3B
+Max Kepler	RF
+Kennys Vargas	DH
+Jason Castro	C
+Byron Buxton	CF
+Eddie Rosario	LF

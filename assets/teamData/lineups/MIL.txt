@@ -1,0 +1,21 @@
+NORM
+Jonathan Villar	2B
+Orlando Arcia	SS
+Ryan Braun	LF
+Eric Thames	1B
+Domingo Santana	RF
+Travis Shaw	3B
+Keon Broxton	CF
+Jett Bandy	C
+Pitcher	SP
+
+WDH
+Jonathan Villar	2B
+Orlando Arcia	SS
+Ryan Braun	LF
+Eric Thames	1B
+Domingo Santana	RF
+Travis Shaw	3B
+Kirk Nieuwenhuis	DH
+Keon Broxton	CF
+Jett Bandy	C

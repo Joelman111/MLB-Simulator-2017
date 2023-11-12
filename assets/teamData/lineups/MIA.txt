@@ -1,0 +1,21 @@
+NORM
+Dee Gordon	2B
+Martin Prado	3B
+Christian Yelich	CF
+Giancarlo Stanton	RF
+Marcell Ozuna	LF
+Justin Bour	1B
+J.T. Realmuto	C
+Adeiny Hechavarria	SS
+Pitcher	SP
+
+WDH
+Dee Gordon	2B
+Martin Prado	3B
+Christian Yelich	CF
+Giancarlo Stanton	RF
+Marcell Ozuna	LF
+Ichiro Suzuki	DH
+Justin Bour	1B
+J.T. Realmuto	C
+Adeiny Hechavarria	SS

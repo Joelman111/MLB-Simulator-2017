@@ -1,0 +1,21 @@
+NORM
+Alcides Escobar	SS
+Mike Moustakas	3B
+Lorenzo Cain	CF
+Eric Hosmer	1B
+Salvador Perez	C
+Alex Gordon	LF
+Brandon Moss	RF
+Whit Merrifield	2B
+Pitcher	SP
+
+WDH
+Alcides Escobar	SS
+Mike Moustakas	3B
+Lorenzo Cain	CF
+Eric Hosmer	1B
+Brandon Moss	DH
+Salvador Perez	C
+Alex Gordon	LF
+Jorge Soler	RF
+Whit Merrifield	2B

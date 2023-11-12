@@ -1,0 +1,21 @@
+NORM
+Kyle Schwarber	LF
+Kris Bryant	3B
+Anthony Rizzo	1B
+Ben Zobrist	2B
+Addison Russell	SS
+Jason Heyward	RF
+Willson Contreras	C
+Jon Jay	CF
+Pitcher	SP
+
+WDH
+Kyle Schwarber	LF
+Kris Bryant	3B
+Anthony Rizzo	1B
+Ben Zobrist	2B
+Addison Russell	SS
+Jason Heyward	RF
+Willson Contreras	C
+Javier Baez	DH
+Jon Jay	CF

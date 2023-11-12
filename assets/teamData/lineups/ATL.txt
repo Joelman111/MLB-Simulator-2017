@@ -1,0 +1,21 @@
+NORM
+Ender Inciarte	CF
+Dansby Swanson	SS
+Freddie Freeman	1B
+Matt Kemp	LF
+Nick Markakis	RF
+Brandon Phillips	2B
+Adonis Garcia	3B
+Tyler Flowers	C
+Pitcher	SP
+
+WDH
+Ender Inciarte	CF
+Dansby Swanson	SS
+Freddie Freeman	1B
+Matt Kemp	LF
+Nick Markakis	RF
+Brandon Phillips	2B
+Adonis Garcia	3B
+Jace Peterson	DH
+Tyler Flowers	C

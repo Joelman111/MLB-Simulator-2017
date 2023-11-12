@@ -1,0 +1,21 @@
+NORM
+Rajai Davis	CF
+Stephen Vogt	C
+Ryon Healy	1B
+Khris Davis	LF
+Matt Joyce	RF
+Marcus Semien	SS
+Trevor Plouffe	3B
+Jed Lowrie	2B
+Pitcher	SP
+
+WDH
+Rajai Davis	CF
+Stephen Vogt	C
+Ryon Healy	DH
+Khris Davis	LF
+Matt Joyce	RF
+Marcus Semien	SS
+Trevor Plouffe	3B
+Yonder Alonso	1B
+Jed Lowrie	2B

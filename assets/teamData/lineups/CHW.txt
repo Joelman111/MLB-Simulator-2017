@@ -1,0 +1,21 @@
+NORM
+Charlie Tilson	CF
+Tim Anderson	SS
+Melky Cabrera	LF
+Jose Abreu	1B
+Todd Frazier	3B
+Brett Lawrie	2B
+Geovany Soto	C
+Avisail Garcia	RF
+Pitcher	SP
+
+WDH
+Charlie Tilson	CF
+Tim Anderson	SS
+Melky Cabrera	LF
+Jose Abreu	1B
+Todd Frazier	3B
+Brett Lawrie	2B
+Geovany Soto	C
+Cody Asche	DH
+Avisail Garcia	RF

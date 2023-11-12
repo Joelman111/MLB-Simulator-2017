@@ -1,0 +1,21 @@
+NORM
+Cesar Hernandez	2B
+Howie Kendrick	LF
+Odubel Herrera	CF
+Maikel Franco	3B
+Michael Saunders	RF
+Tommy Joseph	1B
+Cameron Rupp	C
+Freddy Galvis	SS
+Pitcher	SP
+
+WDH
+Cesar Hernandez	2B
+Howie Kendrick	LF
+Odubel Herrera	CF
+Maikel Franco	3B
+Michael Saunders	RF
+Chris Coghlan	DH
+Tommy Joseph	1B
+Cameron Rupp	C
+Freddy Galvis	SS

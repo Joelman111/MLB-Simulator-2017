@@ -1,0 +1,21 @@
+NORM
+Curtis Granderson	CF
+Jose Reyes	3B
+Yoenis Cespedes	LF
+Jay Bruce	RF
+Neil Walker	2B
+Asdrubal Cabrera	SS
+Lucas Duda	1B
+Travis d'Arnaud	C
+Pitcher	SP
+
+WDH
+Curtis Granderson	CF
+Jose Reyes	3B
+Yoenis Cespedes	LF
+Jay Bruce	RF
+Neil Walker	2B
+Asdrubal Cabrera	SS
+Lucas Duda	1B
+Michael Conforto	DH
+Travis d'Arnaud	C

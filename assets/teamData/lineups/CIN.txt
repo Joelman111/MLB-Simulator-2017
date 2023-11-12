@@ -1,0 +1,21 @@
+NORM
+Billy Hamilton	CF
+Zack Cozart	SS
+Joey Votto	1B
+Adam Duvall	LF
+Scott Schebler	RF
+Eugenio Suarez	3B
+Jose Peraza	2B
+Devin Mesoraco	C
+Pitcher	SP
+
+WDH
+Billy Hamilton	CF
+Zack Cozart	SS
+Joey Votto	1B
+Adam Duvall	LF
+Scott Schebler	RF
+Eugenio Suarez	3B
+Ryan Raburn	DH
+Jose Peraza	2B
+Devin Mesoraco	C

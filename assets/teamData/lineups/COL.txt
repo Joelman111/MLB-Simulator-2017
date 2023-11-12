@@ -1,0 +1,21 @@
+NORM
+Charlie Blackmon	CF
+DJ LeMahieu	2B
+Nolan Arenado	3B
+Carlos Gonzalez	RF
+Ian Desmond	1B
+Gerardo Parra	LF
+Trevor Story	SS
+Tony Wolters	C
+Pitcher	SP
+
+WDH
+Charlie Blackmon	CF
+DJ LeMahieu	2B
+Nolan Arenado	3B
+Carlos Gonzalez	RF
+Mark Reynolds	DH
+Ian Desmond	1B
+Gerardo Parra	LF
+Trevor Story	SS
+Tony Wolters	C

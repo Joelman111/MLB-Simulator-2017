@@ -1,0 +1,21 @@
+NORM
+Jarrod Dyson	LF
+Jean Segura	SS
+Robinson Cano	2B
+Nelson Cruz	RF
+Kyle Seager	3B
+Mike Zunino	C
+Dan Vogelbach	1B
+Leonys Martin	CF
+Pitcher	SP
+
+WDH
+Jarrod Dyson	LF
+Jean Segura	SS
+Robinson Cano	2B
+Nelson Cruz	DH
+Kyle Seager	3B
+Mike Zunino	C
+Dan Vogelbach	1B
+Mitch Haniger	RF
+Leonys Martin	CF

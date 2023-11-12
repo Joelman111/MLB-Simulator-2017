@@ -1,0 +1,21 @@
+NORM
+Nick Franklin	2B
+Kevin Kiermaier	CF
+Evan Longoria	3B
+Brad Miller	1B
+Matt Duffy	SS
+Corey Dickerson	RF
+Colby Rasmus	LF
+Curt Casali	C
+Pitcher	SP
+
+WDH
+Nick Franklin	2B
+Kevin Kiermaier	CF
+Evan Longoria	3B
+Brad Miller	1B
+Matt Duffy	SS
+Corey Dickerson	DH
+Steven Souza	RF
+Colby Rasmus	LF
+Curt Casali	C

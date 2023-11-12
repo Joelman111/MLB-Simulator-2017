@@ -1,0 +1,21 @@
+NORM
+Devon Travis	2B
+Josh Donaldson	3B
+Jose Bautista	RF
+Kendrys Morales	1B
+Troy Tulowitzki	SS
+Russell Martin	C
+Ezequiel Carrera	LF
+Kevin Pillar	CF
+Pitcher	SP
+
+WDH
+Devon Travis	2B
+Josh Donaldson	3B
+Jose Bautista	RF
+Kendrys Morales	DH
+Troy Tulowitzki	SS
+Russell Martin	C
+Justin Smoak	1B
+Ezequiel Carrera	LF
+Kevin Pillar	CF

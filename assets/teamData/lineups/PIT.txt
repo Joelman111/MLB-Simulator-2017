@@ -1,0 +1,21 @@
+NORM
+Josh Harrison	2B
+Josh Bell	1B
+Andrew McCutchen	CF
+Starling Marte	LF
+Gregory Polanco	RF
+Jung Ho Kang	3B
+Francisco Cervelli	C
+Jordy Mercer	SS
+Pitcher	SP
+
+WDH
+Josh Harrison	2B
+Josh Bell	1B
+Andrew McCutchen	RF
+Starling Marte	CF
+Gregory Polanco	LF
+Jung Ho Kang	3B
+David Freese	DH
+Francisco Cervelli	C
+Jordy Mercer	SS
