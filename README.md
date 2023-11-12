@@ -13,7 +13,7 @@ The simulator uses 2016 MLB statistics to create a realistic game engine and mod
 ### Installing
 
 ```
-git clone ...
+git clone https://github.com/Joelman111/MLB-Simulator-2017.git
 pip install -r requirements.txt
 ```
 
@@ -32,4 +32,4 @@ In game, you can hit 'h' to toggle the help screen, which will tell you all of t
 Joel Miller (joelgmiller11@gmail.com)
 
 ## Demo Video
-![](demo.mp4)
+[![MLB Simulator 2017](https://img.youtube.com/vi/7Pxdd7SbfVk/0.jpg)](https://youtu.be/7Pxdd7SbfVk?si=nIjsmbllElQH5p0M)
